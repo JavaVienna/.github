@@ -48,18 +48,18 @@
 * <strong>Location Transparency</strong>  - [Author TODO]](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 
 ### March Meetup: [2023-03-06](https://www.meetup.com/java-vienna/events/289492548/)
-* <strong>Angular ❤️ Spring Boot</strong>  - [Author TODO]](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
-* <strong>Various ways to jOOQ</strong>  - [Author TODO]](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Angular ❤️ Spring Boot</strong>  - [Erich Stadler](https://github.com/infrasoft-erich-stadler) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Various ways to jOOQ</strong>  - [[Klaus Unger]](https://github.com/KlausUnger) [[Christoph Kober]](https://github.com/Kamaruni) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 
 ## 2022
 
 ### December Meetup: [2022-12-05](https://www.meetup.com/java-vienna/events/287658687/)
-* <strong>Logging Considered Harmful?</strong>  - [Author TODO]](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
-* <strong>OpenTelemetry for Java</strong>  - [Author TODO]](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Logging Considered Harmful?</strong>  - [Sebastian Daschner](https://github.com/sdaschner) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+  * <strong>OpenTelemetry for Java</strong>  - [Philipp Krenn](https://github.com/xeraa) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 
 ### November Meetup: [2022-11-07](https://www.meetup.com/java-vienna/events/287658656/)
-* <strong>JSF is still alive</strong>  - [Author TODO]](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
-* <strong>Spring Boot µService + CI/CD @ Openshift</strong>  - [Author TODO]](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>JSF is still alive</strong>  - [Rudy De Busscher]](https://github.com/rdebusscher) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Spring Boot µService + CI/CD @ Openshift</strong>  - [Stefan Zaufl]](https://github.com/e0925357) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 
 
 ### October Meetup: [2022-10-03](https://www.meetup.com/java-vienna/events/287658623/)
