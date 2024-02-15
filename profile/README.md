@@ -40,7 +40,7 @@
 * <strong>Quarkus + Kubernetes</strong>  - [Author](#TODO) [[Slides](#TODO)] [[Code](#TODO)]
 
 ### May Meetup: [2023-05-15](https://www.meetup.com/java-vienna/events/292086252/)
-* <strong>Solid: Foundation of Web3.0 for Java Devs</strong>  - [Author](#TODO) [[Slides](#TODO)] [[Code](#TODO)]
+* <strong>Solid: Foundation of Web3.0 for Java Devs</strong>  - [Timea Turdean](https://github.com/timea-solid) [[Slides](https://github.com/JavaVienna/2023-05-15_solid-client-java/blob/main/Final%20-%20Solid%20at%20JSUG%20Vienna%202023.pdf)] [[Code](https://github.com/JavaVienna/2023-05-15_solid-client-java)]
 * <strong>GraalVM & Spring Boot 3</strong>  - [Author](#TODO) [[Slides](#TODO)] [[Code](#TODO)]
 
 ### April Meetup: [2023-04-24](https://www.meetup.com/java-vienna/events/292086242/)
