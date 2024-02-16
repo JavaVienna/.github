@@ -73,7 +73,7 @@
 
 ### August Meetup: [2022-08-04](https://www.meetup.com/java-vienna/events/286732982/)
 * <strong>Java Performance</strong>  - [Kirk Pepperdine](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
-* <strong>Hibernate/Blaze Persistence</strong>  - [Christian Beikov](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Hibernate/Blaze Persistence</strong>  - [Christian Beikov](https://github.com/beikov) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 
 ### June Meetup: [2022-06-27](https://www.meetup.com/java-vienna/events/285439520/)
 * <strong>Property-based testing with Java</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
@@ -89,9 +89,172 @@
 * <strong>Using Kafka&Opensearch at Willhaben</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 
 ### March Meetup: [2022-03-28](https://www.meetup.com/java-vienna/events/284091597/)
-* <strong>Hibernate 6</strong>  - [Author](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
-* <strong>Java/JakartaEE @ Azure</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Hibernate 6</strong>  - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Java/JakartaEE @ Azure</strong>  - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
+## 2021
+
+### November Meetup: [2021-11-15](https://www.meetup.com/java-vienna/events/281830308/)
+* <strong>GraalVM</strong>   - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Distributed Performance Challanges</strong>   - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### October Meetup: [2021-10-18](https://www.meetup.com/java-vienna/events/280658091/)
+* <strong>Keycloak</strong>  - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Whats new in Java</strong>  - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### May Meetup: [2021-05-20](https://www.meetup.com/java-vienna/events/277997503/)
+* <strong>Release early, release often!</strong>   - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Spring tricks</strong>    - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Kubernetes Operators with Java</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+## 2020
+### March Meetup: [2020-03-02](https://www.meetup.com/java-vienna/events/263995797/)
+* <strong>Unbiased Allocation Profiling</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Tracing for Java Developers</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### January Meetup: [2020-01-20](https://www.meetup.com/java-vienna/events/263596618/)
+* <strong>From Akka Persistence to Factory Automation</strong> - [Roland Kuhn](https://github.com/rkuhn) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+## 2019
+
+### December Meetup: [2019-12-16](https://www.meetup.com/java-vienna/events/263596528/)
+* <strong>Let's develop on Prod with Istio & Kubernetes</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Blaze-Persistence GraphQL Support</strong> - [Christian Beikov](https://github.com/beikov) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+
+### November Meetup: [2019-11-25](https://www.meetup.com/java-vienna/events/263596491/)
+* <strong>Lightweight Feature Environments with Spring Cloud + Kubernetes</strong>  - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Apache Freemarker</strong>  - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### October Meetup: [2019-10-21](https://www.meetup.com/java-vienna/events/263596418/)
+* <strong>Hazelcast Cloud</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>JPA + jOOQ + FlyWay</strong>  - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### September Meetup: [2019-09-23](https://www.meetup.com/java-vienna/events/263596370/)
+* <strong>Maximizing Performance with GraalVM: Java + Scala!</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### June Meetup: [2019-06-24](https://www.meetup.com/java-vienna/events/261610117/)
+* <strong>Spaß mit Microservices: Transaktionen</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Demystifying Java Language Features 9 - 11</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### May Workshop: [2019-05-27](https://www.meetup.com/java-vienna/events/261287027/)
+* <strong>Workshop: Getting started with OAuth 2.0</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### March Meetup: [2019-03-25](https://www.meetup.com/java-vienna/events/259698040/)
+* <strong>Quarkus + BIM collaboration platform with Neo4J</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Java Microservices</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### Februar Meetup: [2019-02-05](https://www.meetup.com/java-vienna/events/258589706/)
+* <strong>It's all about the domain, honey - Fachliche Architektur für Java mit DDD</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### January Meetup: [2019-01-21](https://www.meetup.com/java-vienna/events/257901159/)
+* <strong>Spring Boot: AutoConfiguration & Testing</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+## 2018
+
+### December Meetup: [2018-12-03](https://www.meetup.com/java-vienna/events/256644900/)
+* <strong>Entity Views - Not your father's DTOs</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Kickstart your Gatling Performance Testing</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### October Meetup: [2018-10-05](https://www.meetup.com/java-vienna/events/255117706/)
+* <strong>Service-Meshed JavaEE with Istio</strong>
+* <strong>Bulletproof JavaEE Apps</strong>
+
+### September Meetup: [2018-09-17](https://www.meetup.com/java-vienna/events/254044447/)
+* <strong>Vaadin 10 Roadshow</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Running Vaadin 10 on Play!Framework</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### June Meetup: [2018-06-25](https://www.meetup.com/java-vienna/events/251748903/)
+* <strong>API on the leash</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Jakarta EE and the road ahead</strong>  - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### May Meetup: [2018-05-28](https://www.meetup.com/java-vienna/events/247519494/)
+* <strong>Parallel and Asynchronous Programming with Streams and CompletableFuture</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### April Meetup: [2018-04-16](https://www.meetup.com/java-vienna/events/248996149/)
+* <strong>All 'bout Spring Boot</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### February Meetup: [2018-02-26](https://www.meetup.com/java-vienna/events/247510527/)
+* <strong>Intro Akka-Streams</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>AsciiDoc+PDF</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Event-Sourcing w/ Play! & Akka</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### January Meetup: [2018-01-15](https://www.meetup.com/java-vienna/events/246397740/)
+* <strong>The cool and the cruel of MicroServices [[German]]</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+## 2017
+
+### October Meetup: [2017-10-23](https://www.meetup.com/java-vienna/events/243738078/)
+* <strong>Play!@Craze</strong>  - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### June Meetup #2: [2017-06-26](https://www.meetup.com/java-vienna/events/240607494/)
+* <strong>CrateDB Distributed SQL & Search Database</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Migrating from SQL to NoSQL</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### June Meetup #1: [2017-06-12](https://www.meetup.com/java-vienna/events/238559127/)
+* <strong>Camunda BPM</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Getting started with Akka</strong> - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### May Meetup: [2017-05-08](https://www.meetup.com/java-vienna/events/238559105/)
+* <strong>Event Sourcing using Akka on AWS</strong> [[Daniel Pfeiffer](https://github.com/dpfeiffer)]  [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Source Dependencies with Maven and Gradle</strong> [[Peter Palaga](https://github.com/ppalaga)]  [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### April Meetup: [2017-04-03](https://www.meetup.com/java-vienna/events/238559087/)
+* <strong>Continous Code Quality with the Sonar Ecosystem</strong>
+
+### March Meetup: [2017-03-15](https://www.meetup.com/java-vienna/events/238381687/)
+* <strong>Spring Boot under the hood</strong>
+
+### January Meetup: [2017-01-16](https://www.meetup.com/java-vienna/events/236378485/)
+* <strong>Model Driven Architecture & Design @ ING-DiBa</strong>
+
+## 2016
+
+### December Meetup: [2016-12-05](https://www.meetup.com/java-vienna/events/235412579/)
+* <strong>Microservices with the PlayFramework</strong>
+* <strong>Tools of the Trade</strong>
+
+### November Meetup: [2016-11-14](https://www.meetup.com/java-vienna/events/234641121/)
+* <strong>Blaze-Persistence for JPA </strong>
+* <strong>Case Study: Spring Framework at Craftwork</strong>
+
+### October Meetup: [2016-10-10](https://www.meetup.com/java-vienna/events/234380365/)
+* <strong>Intro to Kotlin</strong>
+* <strong>JUnit 5</strong>
+
+### April Meetup: [2016-04-18](https://www.meetup.com/java-vienna/events/229195719/)
+* <strong>What's new in Play Framework 2.5</strong>
+* <strong>Lagom - the microservice framework</strong>
+
+### March Meetup: [2016-03-14](https://www.meetup.com/java-vienna/events/229020934/)
+* <strong>Redis</strong>
+* <strong>Groovy Scripting</strong>
+
+## 2015
+
+### December Meetup: [2015-12-14](https://www.meetup.com/java-vienna/events/226926429/)
+* <strong>NetRexx - human oriented language for the JVM</strong>
+* <strong>PerfCake - Performance testing</strong>
+
+### October Meetup: [2015-10-12](https://www.meetup.com/java-vienna/events/225365483/)
+* <strong>Se7en deadly deployment sins</strong>
+* <strong>Smart Cloud Load Balancing</strong>
+
+### July Meetup: [2015-07-06](https://www.meetup.com/java-vienna/events/221724485/)
+* <strong>AWS Deployment Mechanics [Workshop]</strong>
+
+### June Meetup: [2015-06-08](https://www.meetup.com/java-vienna/events/221724478/)
+* <strong>Spring Boot</strong>
+* <strong>One VM to rule them all (GraalVM)</strong>
+
+### May Meetup: [2015-05-11](https://www.meetup.com/java-vienna/events/221724475/) (JSUG #70)
+* <strong>Playframework 2.4, Akka-Persistence</strong>
+
+### April Meetup: [2015-04-20](https://www.meetup.com/java-vienna/events/221390472/) (JSUG 69)
+* <strong>Event Sourcing & CQRS</strong>
+
+### March Meetup: [2015-03-30](https://www.meetup.com/java-vienna/events/221237284/) (JSUG 68)
+* <strong>Apache Tapestry 5</strong>
+* <strong>Java Server Monitoring</strong>
 
 
 <!--
