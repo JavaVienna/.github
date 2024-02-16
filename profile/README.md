@@ -32,16 +32,16 @@
 * <strong>The beauty of the monolith</strong>  - [Author](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 
 ### June Meetup #2: [2023-06-26](https://www.meetup.com/java-vienna/events/293018565/)
-* <strong>Microservice communication done right</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
-* <strong>Modern observability with OpenTelemetry</strong>  - [Author](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Microservice communication done right</strong>  - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides]](https://github.com/JavaVienna/2023-06-26_microservice_communication_done_right/blob/main/Microservice-communication-done-right-2023-06-26-java-meetup-Damjan.pdf)] [[Code TODO]](#TODO)]
+* <strong>Modern observability with OpenTelemetry</strong>  - [Georg Pirklbauer](https://github.com/pirgeo) [[Slides]](https://github.com/JavaVienna/2023-06-26_opentracing_gs-accessing-data-mysql/blob/main/slides_java-meetup-06-23-otel.pdf)] [[Code]](https://github.com/JavaVienna/2023-06-26_opentracing_gs-accessing-data-mysql)]
 
 ### June Meetup #1: [2023-06-05](https://www.meetup.com/java-vienna/events/292086264/)
-* <strong>E.D.D.I. - Conversational AI Middleware mit Quarkus</strong>   - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>E.D.D.I. - Conversational AI Middleware mit Quarkus</strong> - [Gregor Jaritsch](https://github.com/ginccc) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 * <strong>Quarkus + Kubernetes</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 
 ### May Meetup: [2023-05-15](https://www.meetup.com/java-vienna/events/292086252/)
 * <strong>Solid: Foundation of Web3.0 for Java Devs</strong>  - [Timea Turdean](https://github.com/timea-solid) [[Slides](https://github.com/JavaVienna/2023-05-15_solid-client-java/blob/main/Final%20-%20Solid%20at%20JSUG%20Vienna%202023.pdf)] [[Code](https://github.com/JavaVienna/2023-05-15_solid-client-java)]
-* <strong>GraalVM & Spring Boot 3</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>GraalVM & Spring Boot 3</strong>  - [Rainer Hahnekamp](https://github.com/rainerhahnekamp) [[Slides]](https://github.com/JavaVienna/2023-05-15_graal-vienna/blob/main/GraalVM.pdf)] [[Code]](https://github.com/JavaVienna/2023-05-15_graal-spring-vienna)] [[Code](https://github.com/JavaVienna/2023-05-15_graal-vienna)]
 
 ### April Meetup: [2023-04-24](https://www.meetup.com/java-vienna/events/292086242/)
 * <strong>HATEOAS – Können REST-APIs Geschichten erzählen?</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
