@@ -37,15 +37,15 @@
 
 ### June Meetup #1: [2023-06-05](https://www.meetup.com/java-vienna/events/292086264/)
 * <strong>E.D.D.I. - Conversational AI Middleware mit Quarkus</strong> - [Gregor Jarisch](https://github.com/ginccc) [[Slides]](https://github.com/JavaVienna/2023-06-05_EDDI_Conversational_AI/blob/main/EDDI_5_chatGPT_quarkus_java_meetup.pdf)] [[Code]](https://github.com/JavaVienna/2023-06-05_EDDI_Conversational_AI)]
-* <strong>Quarkus + Kubernetes</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Quarkus + Kubernetes</strong>  - [Onur Kasimlar](https://github.com/kasimlar-onur) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 
 ### May Meetup: [2023-05-15](https://www.meetup.com/java-vienna/events/292086252/)
 * <strong>Solid: Foundation of Web3.0 for Java Devs</strong>  - [Timea Turdean](https://github.com/timea-solid) [[Slides](https://github.com/JavaVienna/2023-05-15_solid-client-java/blob/main/Final%20-%20Solid%20at%20JSUG%20Vienna%202023.pdf)] [[Code](https://github.com/JavaVienna/2023-05-15_solid-client-java)]
 * <strong>GraalVM & Spring Boot 3</strong>  - [Rainer Hahnekamp](https://github.com/rainerhahnekamp) [[Slides]](https://github.com/JavaVienna/2023-05-15_graal-vienna/blob/main/GraalVM.pdf)] [[Code]](https://github.com/JavaVienna/2023-05-15_graal-spring-vienna)] [[Code](https://github.com/JavaVienna/2023-05-15_graal-vienna)]
 
 ### April Meetup: [2023-04-24](https://www.meetup.com/java-vienna/events/292086242/)
-* <strong>HATEOAS – Können REST-APIs Geschichten erzählen?</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
-* <strong>Location Transparency</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>HATEOAS – Können REST-APIs Geschichten erzählen?</strong>  - [Maximilian Göke](https://github.com/magoeke) [[Slides]](https://github.com/JavaVienna/2023-04-24_hateoas/blob/main/20230424_HATEOAS.pdf)] [[Code TODO]](#TODO)]
+* <strong>Location Transparency</strong>  - [Milen Dyankov](https://github.com/azzazzel) [[Slides]](https://github.com/JavaVienna/2023-04-24_axonq_location_transparency/blob/main/Location_transparency_03.pdf)] [[Code TODO]](#TODO)]
 
 ### March Meetup: [2023-03-06](https://www.meetup.com/java-vienna/events/289492548/)
 * <strong>Angular ❤️ Spring Boot</strong>  - [Erich Stadler](https://github.com/infrasoft-erich-stadler) [[Slides]](https://github.com/JavaVienna/2023-03-06_angular_loves_spring_boot/blob/develop/Angular%20loves%20Spring%20Boot%20(Java%20Meetup).pdf)] [[Code]](https://github.com/JavaVienna/2023-03-06_angular_loves_spring_boot)]
