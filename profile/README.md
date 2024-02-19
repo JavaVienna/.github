@@ -45,7 +45,7 @@
 
 ### April Meetup: [2023-04-24](https://www.meetup.com/java-vienna/events/292086242/)
 * <strong>HATEOAS – Können REST-APIs Geschichten erzählen?</strong>  - [Maximilian Göke](https://github.com/magoeke) [[Slides]](https://github.com/JavaVienna/2023-04-24_hateoas/blob/main/20230424_HATEOAS.pdf)] [[Code TODO]](#TODO)]
-* <strong>Location Transparency</strong>  - [Milen Dyankov](https://github.com/azzazzel) [[Slides]](https://github.com/JavaVienna/2023-04-24_axonq_location_transparency/blob/main/Location_transparency_03.pdf)] [[Code TODO]](#TODO)]
+* <strong>Location Transparency</strong>  - [Milen Dyankov](https://github.com/azzazzel) [[Slides](https://github.com/JavaVienna/2023-04-24_axonq_location_transparency/blob/main/Location_transparency_03.pdf)]
 
 ### March Meetup: [2023-03-06](https://www.meetup.com/java-vienna/events/289492548/)
 * <strong>Angular ❤️ Spring Boot</strong>  - [Erich Stadler](https://github.com/infrasoft-erich-stadler) [[Slides]](https://github.com/JavaVienna/2023-03-06_angular_loves_spring_boot/blob/develop/Angular%20loves%20Spring%20Boot%20(Java%20Meetup).pdf)] [[Code]](https://github.com/JavaVienna/2023-03-06_angular_loves_spring_boot)]
