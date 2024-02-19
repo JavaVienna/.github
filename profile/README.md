@@ -48,7 +48,7 @@
 * <strong>Location Transparency</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 
 ### March Meetup: [2023-03-06](https://www.meetup.com/java-vienna/events/289492548/)
-* <strong>Angular ❤️ Spring Boot</strong>  - [Erich Stadler](https://github.com/infrasoft-erich-stadler) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Angular ❤️ Spring Boot</strong>  - [Erich Stadler](https://github.com/infrasoft-erich-stadler) [[Slides]](https://github.com/JavaVienna/2023-03-06_angular_loves_spring_boot/blob/develop/Angular%20loves%20Spring%20Boot%20(Java%20Meetup).pdf)] [[Code]](https://github.com/JavaVienna/2023-03-06_angular_loves_spring_boot)]
 * <strong>Various ways to jOOQ</strong>  - [[Klaus Unger]](https://github.com/KlausUnger) [[Christoph Kober]](https://github.com/Kamaruni) [[Slides]](https://github.com/JavaVienna/2023-03-06_various_ways_to_jOOQ/blob/master/Various%20Ways%20to%20jOOQ.pdf)] [[Code]](https://github.com/JavaVienna/2023-03-06_various_ways_to_jOOQ)]
 
 ## 2022
