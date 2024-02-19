@@ -49,17 +49,17 @@
 
 ### March Meetup: [2023-03-06](https://www.meetup.com/java-vienna/events/289492548/)
 * <strong>Angular ❤️ Spring Boot</strong>  - [Erich Stadler](https://github.com/infrasoft-erich-stadler) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
-* <strong>Various ways to jOOQ</strong>  - [[Klaus Unger]](https://github.com/KlausUnger) [[Christoph Kober]](https://github.com/Kamaruni) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Various ways to jOOQ</strong>  - [[Klaus Unger]](https://github.com/KlausUnger) [[Christoph Kober]](https://github.com/Kamaruni) [[Slides]](https://github.com/JavaVienna/2023-03-06_various_ways_to_jOOQ/blob/master/Various%20Ways%20to%20jOOQ.pdf)] [[Code]](https://github.com/JavaVienna/2023-03-06_various_ways_to_jOOQ)]
 
 ## 2022
 
 ### December Meetup: [2022-12-05](https://www.meetup.com/java-vienna/events/287658687/)
-* <strong>Logging Considered Harmful?</strong>  - [Sebastian Daschner](https://github.com/sdaschner) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
-  * <strong>OpenTelemetry for Java</strong>  - [Philipp Krenn](https://github.com/xeraa) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Logging Considered Harmful?</strong>  - [Sebastian Daschner](https://github.com/sdaschner) [[Slides]](https://github.com/JavaVienna/2022-12-05_logging_considered_harmful/tree/main/logging-considered-harmful)] [[Code TODO]](#TODO)]
+* <strong>OpenTelemetry for Java</strong>  - [Philipp Krenn](https://github.com/xeraa) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 
 ### November Meetup: [2022-11-07](https://www.meetup.com/java-vienna/events/287658656/)
 * <strong>JSF is still alive</strong>  - [Rudy De Busscher](https://github.com/rdebusscher) [[Slides]](https://github.com/JavaVienna/2022-11-07_JSF_is_still_alive/blob/master/Faces4.0/jsf-alive.pdf)] [[Code]](https://github.com/JavaVienna/2022-11-07_JSF_is_still_alive/tree/master/Faces4.0)]
-* <strong>Spring Boot µService + CI/CD @ Openshift</strong>  - [Stefan Zaufl](https://github.com/e0925357) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Spring Boot µService + CI/CD @ Openshift</strong>  - [Stefan Zaufl](https://github.com/e0925357) [[Slides]](https://github.com/JavaVienna/2022-11-07_spring_boot_microservice_openshift/blob/main/Entwicklung%20eines%20Microservices%20auf%20OpenShift%20mit%20Spring%20Boot%20-%20simplified.pdf)] [[Code TODO]](#TODO)]
 
 
 ### October Meetup: [2022-10-03](https://www.meetup.com/java-vienna/events/287658623/)
