@@ -28,7 +28,7 @@
 * <strong>CLIs with Java, Quarkus, PicoCLI</strong> - [Sebastian Daschner](https://github.com/sdaschner) [[Slides](#TODO)] [[Code TODO](#TODO)]
 
 ### September Meetup: [2023-09-25](https://www.meetup.com/java-vienna/events/295903398/)
-* <strong>Event-Driven Architecture with the Axon Framework</strong> - [Author](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Event-Driven Architecture with the Axon Framework</strong> - [Andreas Grill](https://github.com/andreasgrill) [Gerhard Hipfinger](https://github.com/nano4711) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 * <strong>The beauty of the monolith</strong>  - [Author](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 
 ### June Meetup #2: [2023-06-26](https://www.meetup.com/java-vienna/events/293018565/)
@@ -41,62 +41,62 @@
 
 ### May Meetup: [2023-05-15](https://www.meetup.com/java-vienna/events/292086252/)
 * <strong>Solid: Foundation of Web3.0 for Java Devs</strong>  - [Timea Turdean](https://github.com/timea-solid) [[Slides](https://github.com/JavaVienna/2023-05-15_solid-client-java/blob/main/Final%20-%20Solid%20at%20JSUG%20Vienna%202023.pdf)] [[Code](https://github.com/JavaVienna/2023-05-15_solid-client-java)]
-* <strong>GraalVM & Spring Boot 3</strong>  - [Rainer Hahnekamp](https://github.com/rainerhahnekamp) [[Slides]](https://github.com/JavaVienna/2023-05-15_graal-vienna/blob/main/GraalVM.pdf)] [[Code]](https://github.com/JavaVienna/2023-05-15_graal-spring-vienna)] [[Code](https://github.com/JavaVienna/2023-05-15_graal-vienna)]
+* <strong>GraalVM & Spring Boot 3</strong>  - [Rainer Hahnekamp](https://github.com/rainerhahnekamp) [[Slides](https://github.com/JavaVienna/2023-05-15_graal-vienna/blob/main/GraalVM.pdf)] [[Code](https://github.com/JavaVienna/2023-05-15_graal-spring-vienna)] [[Code](https://github.com/JavaVienna/2023-05-15_graal-vienna)]
 
 ### April Meetup: [2023-04-24](https://www.meetup.com/java-vienna/events/292086242/)
-* <strong>HATEOAS – Können REST-APIs Geschichten erzählen?</strong>  - [Maximilian Göke](https://github.com/magoeke) [[Slides]](https://github.com/JavaVienna/2023-04-24_hateoas/blob/main/20230424_HATEOAS.pdf)] [[Code TODO]](#TODO)]
+* <strong>HATEOAS – Können REST-APIs Geschichten erzählen?</strong>  - [Maximilian Göke](https://github.com/magoeke) [[Slides](https://github.com/JavaVienna/2023-04-24_hateoas/blob/main/20230424_HATEOAS.pdf)] [[Code TODO](#TODO)]
 * <strong>Location Transparency</strong>  - [Milen Dyankov](https://github.com/azzazzel) [[Slides](https://github.com/JavaVienna/2023-04-24_axonq_location_transparency/blob/main/Location_transparency_03.pdf)]
 
 ### March Meetup: [2023-03-06](https://www.meetup.com/java-vienna/events/289492548/)
-* <strong>Angular ❤️ Spring Boot</strong>  - [Erich Stadler](https://github.com/infrasoft-erich-stadler) [[Slides]](https://github.com/JavaVienna/2023-03-06_angular_loves_spring_boot/blob/develop/Angular%20loves%20Spring%20Boot%20(Java%20Meetup).pdf)] [[Code]](https://github.com/JavaVienna/2023-03-06_angular_loves_spring_boot)]
-* <strong>Various ways to jOOQ</strong>  - [[Klaus Unger]](https://github.com/KlausUnger) [[Christoph Kober]](https://github.com/Kamaruni) [[Slides]](https://github.com/JavaVienna/2023-03-06_various_ways_to_jOOQ/blob/master/Various%20Ways%20to%20jOOQ.pdf)] [[Code]](https://github.com/JavaVienna/2023-03-06_various_ways_to_jOOQ)]
+* <strong>Angular ❤️ Spring Boot</strong>  - [Erich Stadler](https://github.com/infrasoft-erich-stadler) [[Slides](https://github.com/JavaVienna/2023-03-06_angular_loves_spring_boot/blob/develop/Angular%20loves%20Spring%20Boot%20(Java%20Meetup).pdf)] [[Code](https://github.com/JavaVienna/2023-03-06_angular_loves_spring_boot)]
+* <strong>Various ways to jOOQ</strong>  - [[Klaus Unger]](https://github.com/KlausUnger) [[Christoph Kober](https://github.com/Kamaruni) [[Slides](https://github.com/JavaVienna/2023-03-06_various_ways_to_jOOQ/blob/master/Various%20Ways%20to%20jOOQ.pdf)] [[Code](https://github.com/JavaVienna/2023-03-06_various_ways_to_jOOQ)]
 
 ## 2022
 
 ### December Meetup: [2022-12-05](https://www.meetup.com/java-vienna/events/287658687/)
-* <strong>Logging Considered Harmful?</strong>  - [Sebastian Daschner](https://github.com/sdaschner) [[Slides]](https://github.com/JavaVienna/2022-12-05_logging_considered_harmful/tree/main/logging-considered-harmful)] [[Code TODO]](#TODO)]
-* <strong>OpenTelemetry for Java</strong>  - [Philipp Krenn](https://github.com/xeraa) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Logging Considered Harmful?</strong>  - [Sebastian Daschner](https://github.com/sdaschner) [[Slides](https://github.com/JavaVienna/2022-12-05_logging_considered_harmful/tree/main/logging-considered-harmful)] [[Code TODO](#TODO)]
+* <strong>OpenTelemetry for Java</strong>  - [Philipp Krenn](https://github.com/xeraa) [[Slides](https://github.com/JavaVienna/2022-12-05_opentelemetry_for_java/blob/main/on-the-bleeding-edge-of-open-telemetry.pdf)] [[Code TODO](#TODO)]
 
 ### November Meetup: [2022-11-07](https://www.meetup.com/java-vienna/events/287658656/)
-* <strong>JSF is still alive</strong>  - [Rudy De Busscher](https://github.com/rdebusscher) [[Slides]](https://github.com/JavaVienna/2022-11-07_JSF_is_still_alive/blob/master/Faces4.0/jsf-alive.pdf)] [[Code]](https://github.com/JavaVienna/2022-11-07_JSF_is_still_alive/tree/master/Faces4.0)]
-* <strong>Spring Boot µService + CI/CD @ Openshift</strong>  - [Stefan Zaufl](https://github.com/e0925357) [[Slides]](https://github.com/JavaVienna/2022-11-07_spring_boot_microservice_openshift/blob/main/Entwicklung%20eines%20Microservices%20auf%20OpenShift%20mit%20Spring%20Boot%20-%20simplified.pdf)] [[Code TODO]](#TODO)]
+* <strong>JSF is still alive</strong>  - [Rudy De Busscher](https://github.com/rdebusscher) [[Slides](https://github.com/JavaVienna/2022-11-07_JSF_is_still_alive/blob/master/Faces4.0/jsf-alive.pdf)] [[Code](https://github.com/JavaVienna/2022-11-07_JSF_is_still_alive/tree/master/Faces4.0)]
+* <strong>Spring Boot µService + CI/CD @ Openshift</strong>  - [Stefan Zaufl](https://github.com/e0925357) [[Slides](https://github.com/JavaVienna/2022-11-07_spring_boot_microservice_openshift/blob/main/Entwicklung%20eines%20Microservices%20auf%20OpenShift%20mit%20Spring%20Boot%20-%20simplified.pdf)] [[Code TODO](#TODO)]
 
 
 ### October Meetup: [2022-10-03](https://www.meetup.com/java-vienna/events/287658623/)
-* <strong>Java under the Hood of Elasticsearch</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Java under the Hood of Elasticsearch</strong>  - [Philipp Krenn](https://github.com/xeraa) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 * <strong>Look Ma', I made a Website!</strong>  - [Dominik Dorn](https://github.com/domdorn/) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 
 
 ### September Meetup> [2022-10-05](https://www.meetup.com/java-vienna/events/287658572/)
-* <strong>Hexagonical Arch & Architecture Testing</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
-* <strong>Securing Quarkus Apps with OIDC and Keycloak</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Hexagonical Arch & Architecture Testing</strong>  - [Stephan Prantl](https://github.com/stephanprantl) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Securing Quarkus Apps with OIDC and Keycloak</strong>  - [Stephan Kraft TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 
 ### August Meetup: [2022-08-04](https://www.meetup.com/java-vienna/events/286732982/)
-* <strong>Java Performance</strong>  - [Kirk Pepperdine](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Java Performance</strong>  - [Kirk Pepperdine](https://github.com/kcpeppe) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 * <strong>Hibernate/Blaze Persistence</strong>  - [Christian Beikov](https://github.com/beikov) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 
 ### June Meetup: [2022-06-27](https://www.meetup.com/java-vienna/events/285439520/)
-* <strong>Property-based testing with Java</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
-* <strong>log4Shell</strong>  - [Philipp Krenn](https://github.com/xeraa) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Property-based testing with Java</strong>  - [Jan Stępień](https://github.com/jstepien) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>log4Shell</strong>  - [Philipp Krenn](https://github.com/xeraa) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 
 ### May Meetup: [2022-05-30](https://www.meetup.com/java-vienna/events/285818563/)
-* <strong>faster JVM start-up techniques</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
-* <strong>Rust for Java developers</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>faster JVM start-up techniques</strong>  - [Ionut Balosin](https://github.com/ionutbalosin) [[Slides TODO](#TODO)] [[Code](https://github.com/JavaVienna/2022-05-30_faster-jvm-start-up-techniques)]
+* <strong>Rust for Java developers</strong>  - [Stefan Baumgartner](https://github.com/ddprrt) [[Slides](https://github.com/JavaVienna/2022_05_30_rust_for_java_developers/blob/main/rust-for-java-developers_compressed.pdf)] [[Code TODO](#TODO)]
 
 ### April Meetup: [2022-04-25](https://www.meetup.com/java-vienna/events/284523507/)
-* <strong>MapDB + OpenSource Career</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
-* <strong>Using Kafka&Opensearch at Willhaben</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>MapDB + OpenSource Career</strong>  - [Jan Kotek](https://github.com/jankotek) [[Slides]](https://github.com/JavaVienna/2022-04-25_mapdb_opensource_developer/blob/main/mapdb%20meetup.pdf)] [[Code TODO]](#TODO)]
+* <strong>Using Kafka&Opensearch at Willhaben</strong>  - [Matthias Seidemann](https://github.com/matthiasseidemann) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 
 ### March Meetup: [2022-03-28](https://www.meetup.com/java-vienna/events/284091597/)
-* <strong>Hibernate 6</strong>  - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Hibernate 6</strong>  - [Ed Burns](https://github.com/edburns) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 * <strong>Java/JakartaEE @ Azure</strong>  - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 ## 2021
 
 ### November Meetup: [2021-11-15](https://www.meetup.com/java-vienna/events/281830308/)
 * <strong>GraalVM</strong>   - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
-* <strong>Distributed Performance Challanges</strong>   - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Distributed Performance Challenges</strong>   - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 ### October Meetup: [2021-10-18](https://www.meetup.com/java-vienna/events/280658091/)
 * <strong>Keycloak</strong>  - [Author](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
