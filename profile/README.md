@@ -36,7 +36,7 @@
 * <strong>Modern observability with OpenTelemetry</strong>  - [Georg Pirklbauer](https://github.com/pirgeo) [[Slides]](https://github.com/JavaVienna/2023-06-26_opentracing_gs-accessing-data-mysql/blob/main/slides_java-meetup-06-23-otel.pdf)] [[Code]](https://github.com/JavaVienna/2023-06-26_opentracing_gs-accessing-data-mysql)]
 
 ### June Meetup #1: [2023-06-05](https://www.meetup.com/java-vienna/events/292086264/)
-* <strong>E.D.D.I. - Conversational AI Middleware mit Quarkus</strong> - [Gregor Jaritsch](https://github.com/ginccc) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>E.D.D.I. - Conversational AI Middleware mit Quarkus</strong> - [Gregor Jarisch](https://github.com/ginccc) [[Slides]](https://github.com/JavaVienna/2023-06-05_EDDI_Conversational_AI/blob/main/EDDI_5_chatGPT_quarkus_java_meetup.pdf)] [[Code]](https://github.com/JavaVienna/2023-06-05_EDDI_Conversational_AI)]
 * <strong>Quarkus + Kubernetes</strong>  - [Author TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
 
 ### May Meetup: [2023-05-15](https://www.meetup.com/java-vienna/events/292086252/)
