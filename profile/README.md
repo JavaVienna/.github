@@ -17,7 +17,7 @@
 ### December Meetup: [2023-12-04](https://www.meetup.com/java-vienna/events/296033339/)
 
 * <strong>OS Profiling & code improvements</strong> - [Stephan Belks](https://github.com/belks) [Andrew Poulter](https://github.com/AJPoulter) [[Slides TODO]](#TODO)] [[Code](#TODO)]
-* <strong>Reasonable Cloud Practices with Java @ AWS</strong> - [Adam Bien](https://github.com/adambien/) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Reasonable Cloud Practices with Java @ AWS</strong> - [Adam Bien](https://github.com/adambien/) [[Slides](https://github.com/JavaVienna/2023-12-04_reasonable_cloud_practices/blob/master/reasonable-cloud-practices.pdf)] [[Code](https://github.com/JavaVienna/2023-12-04_reasonable_cloud_practices)]
 
 ### November Meetup: [2023-11-13](https://www.meetup.com/java-vienna/events/296033336/)
 * <strong>Keycloak.X & quarkus</strong> - [Kilian Schröder](https://github.com/kilianschroed) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
