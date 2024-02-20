@@ -33,11 +33,11 @@
 
 ### June Meetup #2: [2023-06-26](https://www.meetup.com/java-vienna/events/293018565/)
 * <strong>Microservice communication done right</strong>  - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides]](https://github.com/JavaVienna/2023-06-26_microservice_communication_done_right/blob/main/Microservice-communication-done-right-2023-06-26-java-meetup-Damjan.pdf)] [[Code TODO]](#TODO)]
-* <strong>Modern observability with OpenTelemetry</strong>  - [Georg Pirklbauer](https://github.com/pirgeo) [[Slides]](https://github.com/JavaVienna/2023-06-26_opentracing_gs-accessing-data-mysql/blob/main/slides_java-meetup-06-23-otel.pdf)] [[Code]](https://github.com/JavaVienna/2023-06-26_opentracing_gs-accessing-data-mysql)]
+* <strong>Modern observability with OpenTelemetry</strong>  - [Georg Pirklbauer](https://github.com/pirgeo) [[Slides](https://github.com/JavaVienna/2023-06-26_opentracing_gs-accessing-data-mysql/blob/main/slides_java-meetup-06-23-otel.pdf)] [[Code](https://github.com/JavaVienna/2023-06-26_opentracing_gs-accessing-data-mysql)]
 
 ### June Meetup #1: [2023-06-05](https://www.meetup.com/java-vienna/events/292086264/)
-* <strong>E.D.D.I. - Conversational AI Middleware mit Quarkus</strong> - [Gregor Jarisch](https://github.com/ginccc) [[Slides]](https://github.com/JavaVienna/2023-06-05_EDDI_Conversational_AI/blob/main/EDDI_5_chatGPT_quarkus_java_meetup.pdf)] [[Code]](https://github.com/JavaVienna/2023-06-05_EDDI_Conversational_AI)]
-* <strong>Quarkus + Kubernetes</strong>  - [Onur Kasimlar](https://github.com/kasimlar-onur) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>E.D.D.I. - Conversational AI Middleware mit Quarkus</strong> - [Gregor Jarisch](https://github.com/ginccc) [[Slides](https://github.com/JavaVienna/2023-06-05_EDDI_Conversational_AI/blob/main/EDDI_5_chatGPT_quarkus_java_meetup.pdf)] [[Code](https://github.com/JavaVienna/2023-06-05_EDDI_Conversational_AI)]
+* <strong>Quarkus + Kubernetes</strong>  - [Onur Kasimlar](https://github.com/kasimlar-onur) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 ### May Meetup: [2023-05-15](https://www.meetup.com/java-vienna/events/292086252/)
 * <strong>Solid: Foundation of Web3.0 for Java Devs</strong>  - [Timea Turdean](https://github.com/timea-solid) [[Slides](https://github.com/JavaVienna/2023-05-15_solid-client-java/blob/main/Final%20-%20Solid%20at%20JSUG%20Vienna%202023.pdf)] [[Code](https://github.com/JavaVienna/2023-05-15_solid-client-java)]
@@ -54,7 +54,7 @@
 ## 2022
 
 ### December Meetup: [2022-12-05](https://www.meetup.com/java-vienna/events/287658687/)
-* <strong>Logging Considered Harmful?</strong>  - [Sebastian Daschner](https://github.com/sdaschner) [[Slides](https://github.com/JavaVienna/2022-12-05_logging_considered_harmful/tree/main/logging-considered-harmful)] [[Code TODO](#TODO)]
+* <strong>Logging Considered Harmful?</strong>  - [Sebastian Daschner](https://github.com/sdaschner) [[Slides](https://github.com/JavaVienna/2022-12-05_logging_considered_harmful/tree/main/logging-considered-harmful)] [[Code](https://github.com/javavienna/2022-12-05_quarkus-logging-comparison)]
 * <strong>OpenTelemetry for Java</strong>  - [Philipp Krenn](https://github.com/xeraa) [[Slides](https://github.com/JavaVienna/2022-12-05_opentelemetry_for_java/blob/main/on-the-bleeding-edge-of-open-telemetry.pdf)] [[Code](https://github.com/javavienna/2022-12-05_opentelemetry_for_java_code)]
 
 ### November Meetup: [2022-11-07](https://www.meetup.com/java-vienna/events/287658656/)
@@ -63,17 +63,17 @@
 
 
 ### October Meetup: [2022-10-03](https://www.meetup.com/java-vienna/events/287658623/)
-* <strong>Java under the Hood of Elasticsearch</strong>  - [Philipp Krenn](https://github.com/xeraa) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
-* <strong>Look Ma', I made a Website!</strong>  - [Dominik Dorn](https://github.com/domdorn/) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Java under the Hood of Elasticsearch</strong>  - [Philipp Krenn](https://github.com/xeraa) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Look Ma', I made a Website!</strong>  - [Dominik Dorn](https://github.com/domdorn/) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 
 ### September Meetup> [2022-10-05](https://www.meetup.com/java-vienna/events/287658572/)
-* <strong>Hexagonical Arch & Architecture Testing</strong>  - [Stephan Prantl](https://github.com/stephanprantl) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
-* <strong>Securing Quarkus Apps with OIDC and Keycloak</strong>  - [Stephan Kraft TODO](#TODO) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Hexagonical Arch & Architecture Testing</strong>  - [Stephan Prantl](https://github.com/stephanprantl) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Securing Quarkus Apps with OIDC and Keycloak</strong>  - [Stephan Kraft TODO](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 ### August Meetup: [2022-08-04](https://www.meetup.com/java-vienna/events/286732982/)
-* <strong>Java Performance</strong>  - [Kirk Pepperdine](https://github.com/kcpeppe) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
-* <strong>Hibernate/Blaze Persistence</strong>  - [Christian Beikov](https://github.com/beikov) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Java Performance</strong>  - [Kirk Pepperdine](https://github.com/kcpeppe) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Hibernate/Blaze Persistence</strong>  - [Christian Beikov](https://github.com/beikov) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 ### June Meetup: [2022-06-27](https://www.meetup.com/java-vienna/events/285439520/)
 * <strong>Property-based testing with Java</strong>  - [Jan Stępień](https://github.com/jstepien) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
