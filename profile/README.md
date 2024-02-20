@@ -55,7 +55,7 @@
 
 ### December Meetup: [2022-12-05](https://www.meetup.com/java-vienna/events/287658687/)
 * <strong>Logging Considered Harmful?</strong>  - [Sebastian Daschner](https://github.com/sdaschner) [[Slides](https://github.com/JavaVienna/2022-12-05_logging_considered_harmful/tree/main/logging-considered-harmful)] [[Code TODO](#TODO)]
-* <strong>OpenTelemetry for Java</strong>  - [Philipp Krenn](https://github.com/xeraa) [[Slides](https://github.com/JavaVienna/2022-12-05_opentelemetry_for_java/blob/main/on-the-bleeding-edge-of-open-telemetry.pdf)] [[Code TODO](#TODO)]
+* <strong>OpenTelemetry for Java</strong>  - [Philipp Krenn](https://github.com/xeraa) [[Slides](https://github.com/JavaVienna/2022-12-05_opentelemetry_for_java/blob/main/on-the-bleeding-edge-of-open-telemetry.pdf)] [[Code](https://github.com/javavienna/2022-12-05_opentelemetry_for_java_code)]
 
 ### November Meetup: [2022-11-07](https://www.meetup.com/java-vienna/events/287658656/)
 * <strong>JSF is still alive</strong>  - [Rudy De Busscher](https://github.com/rdebusscher) [[Slides](https://github.com/JavaVienna/2022-11-07_JSF_is_still_alive/blob/master/Faces4.0/jsf-alive.pdf)] [[Code](https://github.com/JavaVienna/2022-11-07_JSF_is_still_alive/tree/master/Faces4.0)]
