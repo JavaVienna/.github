@@ -28,7 +28,7 @@
 * <strong>CLIs with Java, Quarkus, PicoCLI</strong> - [Sebastian Daschner](https://github.com/sdaschner) [[Slides](#TODO)] [[Code TODO](#TODO)]
 
 ### September Meetup: [2023-09-25](https://www.meetup.com/java-vienna/events/295903398/)
-* <strong>Event-Driven Architecture with the Axon Framework</strong> - [Andreas Grill](https://github.com/andreasgrill) [Gerhard Hipfinger](https://github.com/nano4711) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Event-Driven Architecture aka. 7 years with Axon Framework</strong> - [Andreas Grill](https://github.com/andreasgrill) [Gerhard Hipfinger](https://github.com/nano4711) [[Slides](https://github.com/JavaVienna/2023-09-25_axon/blob/main/open200_SevenYearsWithAxonFramework.pdf)]
 * <strong>The beauty of the monolith</strong>  - [Philipp Seifert-Kehrer TODO](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 ### June Meetup #2: [2023-06-26](https://www.meetup.com/java-vienna/events/293018565/)
