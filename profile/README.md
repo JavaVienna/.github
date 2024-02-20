@@ -81,7 +81,7 @@
 
 
 ### May Meetup: [2022-05-30](https://www.meetup.com/java-vienna/events/285818563/)
-* <strong>faster JVM start-up techniques</strong>  - [Ionut Balosin](https://github.com/ionutbalosin) [[Slides TODO](#TODO)] [[Code](https://github.com/JavaVienna/2022-05-30_faster-jvm-start-up-techniques)]
+* <strong>faster JVM start-up techniques</strong>  - [Ionut Balosin](https://github.com/ionutbalosin) [[Slides](https://github.com/JavaVienna/2022-05-30_faster-jvm-start-up-techniques/blob/main/Techniques-for-a-faster-JVM-start-up.pdf)] [[Code](https://github.com/JavaVienna/2022-05-30_faster-jvm-start-up-techniques)]
 * <strong>Rust for Java developers</strong>  - [Stefan Baumgartner](https://github.com/ddprrt) [[Slides](https://github.com/JavaVienna/2022_05_30_rust_for_java_developers/blob/main/rust-for-java-developers_compressed.pdf)] [[Code TODO](#TODO)]
 
 ### April Meetup: [2022-04-25](https://www.meetup.com/java-vienna/events/284523507/)
