@@ -59,7 +59,7 @@
 
 ### November Meetup: [2022-11-07](https://www.meetup.com/java-vienna/events/287658656/)
 * <strong>JSF is still alive</strong>  - [Rudy De Busscher](https://github.com/rdebusscher) [[Slides](https://github.com/JavaVienna/2022-11-07_JSF_is_still_alive/blob/master/Faces4.0/jsf-alive.pdf)] [[Code](https://github.com/JavaVienna/2022-11-07_JSF_is_still_alive/tree/master/Faces4.0)]
-* <strong>Spring Boot µService + CI/CD @ Openshift</strong>  - [Stefan Zaufl](https://github.com/e0925357) [[Slides](https://github.com/JavaVienna/2022-11-07_spring_boot_microservice_openshift/blob/main/Entwicklung%20eines%20Microservices%20auf%20OpenShift%20mit%20Spring%20Boot%20-%20simplified.pdf)] [[Code TODO](#TODO)]
+* <strong>Spring Boot µService + CI/CD @ Openshift</strong>  - [Stefan Zaufl](https://github.com/StefanZaufl/) [[Slides](https://github.com/JavaVienna/2022-11-07_spring_boot_microservice_openshift/blob/main/Entwicklung%20eines%20Microservices%20auf%20OpenShift%20mit%20Spring%20Boot%20-%20simplified.pdf)] [[Code TODO](#TODO)]
 
 
 ### October Meetup: [2022-10-03](https://www.meetup.com/java-vienna/events/287658623/)
