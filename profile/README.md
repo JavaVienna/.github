@@ -233,7 +233,7 @@
 
 ### December Meetup: [2015-12-14](https://www.meetup.com/java-vienna/events/226926429/)
 * <strong>NetRexx - human oriented language for the JVM</strong>
-* <strong>PerfCake - Performance testing</strong>
+* <strong>PerfCake - Performance testing [Martin Večeřa](https://github.com/marvec) [Pavel Macík](https://github.com/pmacik) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]</strong>
 
 ### October Meetup: [2015-10-12](https://www.meetup.com/java-vienna/events/225365483/)
 * <strong>Se7en deadly deployment sins</strong>
