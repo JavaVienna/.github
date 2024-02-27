@@ -178,7 +178,7 @@
 
 
 ### February Meetup: [2018-02-26](https://www.meetup.com/java-vienna/events/247510527/)
-* <strong>Intro Akka-Streams</strong> - [Daniel Pfeiffer](https://github.com/dpfeiffer) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Intro Akka-Streams</strong> - [Daniel Pfeiffer](https://github.com/dpfeiffer) [[Slides TODO](#TODO)] [[Code](#TODO)]
 * <strong>AsciiDoc+PDF</strong> - [Siegfried Göschl](https://github.com/sgoeschl/) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 * <strong>Event-Sourcing w/ Play! & Akka</strong> - [Dominik Dorn](https://github.com/domdorn/) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
@@ -199,7 +199,7 @@
 * <strong>Getting started with Akka</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 ### May Meetup: [2017-05-08](https://www.meetup.com/java-vienna/events/238559105/)
-* <strong>Event Sourcing using Akka on AWS</strong> [[Daniel Pfeiffer](https://github.com/dpfeiffer)]  [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Event Sourcing using Akka on AWS</strong> [[Daniel Pfeiffer](https://github.com/dpfeiffer)]  [[Slides TODO](#TODO)] [[Code](https://github.com/JavaVienna/2017-05-08_event-sourcing-aws-akka-showcase-java)]
 * <strong>Source Dependencies with Maven and Gradle</strong> [[Peter Palaga](https://github.com/ppalaga)]  [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 ### April Meetup: [2017-04-03](https://www.meetup.com/java-vienna/events/238559087/)
