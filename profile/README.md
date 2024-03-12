@@ -2,6 +2,12 @@
 
 ## 2024
 
+### March Meetup: [2024-03-11](https://www.meetup.com/java-vienna/events/298382998/)
+
+* <strong>Extend your app securely</strong> - [Max Noe](https://github.com/mnohe) [Live Coding only talk] [[Code](https://github.com/JavaVienna/2024-03-11_signed-spi-example)]
+* <strong>Parallele Programmierung in Java</strong> - [Christian Heitzmann](https://simplexacode.ch) [[Slides]] [[Code]]
+
+
 ### February Meetup: [2024-02-12](https://www.meetup.com/java-vienna/events/298382990/)
 
 * <strong>Debugging a debugger</strong> - [Marco Sussitz](https://github.com/ReneThu) [[Slides](https://github.com/JavaVienna/2024-02-12_JavaDebuggingExample/blob/main/Debugging_a_debugger_vienna.pdf)] [[Code](https://github.com/JavaVienna/2024-02-12_JavaDebuggingExample)]
