@@ -70,7 +70,7 @@
 
 ### October Meetup: [2022-10-03](https://www.meetup.com/java-vienna/events/287658623/)
 * <strong>Java under the Hood of Elasticsearch</strong>  - [Philipp Krenn](https://github.com/xeraa) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
-* <strong>Look Ma', I made a Website!</strong>  - [Dominik Dorn](https://github.com/domdorn/) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Look Ma', I made a Website!: Keycloak, Meetup, Quarkus, Wordpress</strong>  - [Dominik Dorn](https://github.com/domdorn/) [[Slides](https://github.com/JavaVienna/2022-10-03_look_ma_i_made_a_website/blob/main/2022-10-03_keycloak_meetup_quarkus_wordpress.pdf)] [[Code](https://github.com/JavaVienna/2022-10-03_look_ma_i_made_a_website/)]
 
 
 ### September Meetup> [2022-10-05](https://www.meetup.com/java-vienna/events/287658572/)
