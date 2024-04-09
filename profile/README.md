@@ -11,7 +11,7 @@
 ### March Meetup: [2024-03-11](https://www.meetup.com/java-vienna/events/298382998/)
 
 * <strong>Extend your app securely</strong> - [Max Noe](https://github.com/mnohe) [Live Coding only talk] [[Code](https://github.com/JavaVienna/2024-03-11_signed-spi-example)]
-* <strong>Parallele Programmierung in Java</strong> - [Christian Heitzmann](https://simplexacode.ch) [[Slides]] [[Code]]
+* <strong>Parallele Programmierung in Java</strong> - [Christian Heitzmann](https://simplexacode.ch) [[Slides](https://github.com/JavaVienna/2024-03-11_parallele_programmierung/blob/main/slides/parallel_programming_in_java_2024_03_11___without_overlays.pdf)] [[Code](https://github.com/JavaVienna/2024-03-11_parallele_programmierung/)]
 
 
 ### February Meetup: [2024-02-12](https://www.meetup.com/java-vienna/events/298382990/)
