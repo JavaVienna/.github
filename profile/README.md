@@ -2,6 +2,12 @@
 
 ## 2024
 
+### April Meetup #1: [2024-04-08](https://www.meetup.com/java-vienna/events/298383065/)
+
+* <strong>Deep dive into Hibernate ORM 6.4 features</strong> - [Christian Beikov](https://github.com/mnohe) [[Slides TODO](#)] [[Code](https://github.com/JavaVienna/2024-04-08_hibernate_6.4_quarkus_insights)] [[Video 1](https://www.youtube.com/watch?v=QS4nT6ffVRA&t=9s&pp=ygUQcXVhcmt1cyBpbnNpZ2h0cw%3D%3D)] [[Video 2](https://www.youtube.com/watch?v=0Z84qAEzoZg&pp=ygUQcXVhcmt1cyBpbnNpZ2h0cw%3D%3D)]
+* <strong>JVM Performance Comparison for JDK 21</strong> - [Ionut Balosin](https://github.com/ionutbalosin) [[Slides](https://github.com/JavaVienna/2024-04-08_jvm-performance-benchmarks/blob/main/JVM-Performance-Comparison-JDK21.pdf)] [[Code](https://github.com/JavaVienna/2024-04-08_jvm-performance-benchmarks)]
+
+
 ### March Meetup: [2024-03-11](https://www.meetup.com/java-vienna/events/298382998/)
 
 * <strong>Extend your app securely</strong> - [Max Noe](https://github.com/mnohe) [Live Coding only talk] [[Code](https://github.com/JavaVienna/2024-03-11_signed-spi-example)]
