@@ -85,7 +85,7 @@
 
 ### August Meetup: [2022-08-04](https://www.meetup.com/java-vienna/events/286732982/)
 * <strong>Java Performance</strong>  - [Kirk Pepperdine](https://github.com/kcpeppe) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
-* <strong>Hibernate/Blaze Persistence</strong>  - [Christian Beikov](https://github.com/beikov) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Hibernate/Blaze Persistence</strong>  - [Christian Beikov](https://github.com/beikov) [[Slides](https://github.com/JavaVienna/2022-08-04_hibernate_blaze_persistence/blob/main/2022-08-05_hibernate6-220805142453-2136847b.pdf)] [[Code](https://github.com/JavaVienna/2022-08-04_hibernate6)]
 
 ### June Meetup: [2022-06-27](https://www.meetup.com/java-vienna/events/285439520/)
 * <strong>Property-based testing with Java</strong>  - [Jan Stępień](https://github.com/jstepien) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
@@ -101,7 +101,7 @@
 * <strong>Using Kafka&Opensearch at Willhaben</strong>  - [Matthias Seidemann](https://github.com/matthiasseidemann) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 ### March Meetup: [2022-03-28](https://www.meetup.com/java-vienna/events/284091597/)
-* <strong>Hibernate 6</strong>  - [Christian Beikov](https://github.com/beikov) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Hibernate 6</strong>  - [Christian Beikov](https://github.com/beikov) [[Slides](https://github.com/JavaVienna/2022-03-28_hibernate6/blob/main/2022-03-29_hibernate6-220329095704.pdf)] [[Code TODO](#TODO)]
 * <strong>Java/JakartaEE @ Azure</strong>  - [Ed Burns](https://github.com/edburns)  [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 ## 2021
@@ -131,7 +131,7 @@
 
 ### December Meetup: [2019-12-16](https://www.meetup.com/java-vienna/events/263596528/)
 * <strong>Let's develop on Prod with Istio & Kubernetes</strong> - [Bartosz Majsak](https://github.com/bartoszmajsak) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
-* <strong>Blaze-Persistence GraphQL Support</strong> - [Christian Beikov](https://github.com/beikov) [[Slides TODO]](#TODO)] [[Code TODO]](#TODO)]
+* <strong>Blaze-Persistence GraphQL Support</strong> - [Christian Beikov](https://github.com/beikov) [[Slides]](https://github.com/JavaVienna/2019-12-16_blaze_persistence_graphql/blob/main/2019-12-17_blaze-persistencegraphql-highperformancequeryingandrelaypagination16-191217075945.pdf)] [[Code TODO]](#TODO)]
 
 ### November Meetup: [2019-11-25](https://www.meetup.com/java-vienna/events/263596491/)
 * <strong>Lightweight Feature Environments with Spring Cloud + Kubernetes</strong>  - [Thomas Höfferl TODO](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
