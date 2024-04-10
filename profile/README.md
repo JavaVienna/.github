@@ -32,7 +32,7 @@
 * <strong>Reasonable Cloud Practices with Java @ AWS</strong> - [Adam Bien](https://github.com/adambien/) [[Slides](https://github.com/JavaVienna/2023-12-04_reasonable_cloud_practices/blob/master/reasonable-cloud-practices.pdf)] [[Code](https://github.com/JavaVienna/2023-12-04_reasonable_cloud_practices)]
 
 ### November Meetup: [2023-11-13](https://www.meetup.com/java-vienna/events/296033336/)
-* <strong>Keycloak.X & quarkus</strong> - [Kilian Schröder](https://github.com/kilianschroed) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Keycloak.X & quarkus</strong> - [Kilian Schröder](https://github.com/kilianschroed) [[Slides](https://github.com/JavaVienna/2023-11-13_quarkus_keycloak/blob/main/java_meetup_11_2023.pdf)] [[Code TODO](#TODO)]
 * <strong>Java containerization deep dive</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides](https://github.com/JavaVienna/2023-11-13_java_containerization_deep_dive/blob/main/java-containerisation.pdf)] [[Code TODO](#TODO)]
 
 ### October Meetup: [2023-10-23](https://www.meetup.com/java-vienna/events/296033325/)
