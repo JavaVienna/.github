@@ -2,6 +2,11 @@
 
 ## 2024
 
+### April Meetup #2: [2024-04-17](https://www.meetup.com/java-vienna/events/300027723/)
+* <strong>Prepare for Jakarta EE11</strong> - [Ed Burns](https://github.com/edburns) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>AI Talk</strong> - [Ed Burns](https://github.com/edburns) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Developer Career Masterplan</strong> - [Ed Burns](https://github.com/edburns) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
 ### April Meetup #1: [2024-04-08](https://www.meetup.com/java-vienna/events/298383065/)
 
 * <strong>Deep dive into Hibernate ORM 6.4 features</strong> - [Christian Beikov](https://github.com/mnohe) [[Slides](https://github.com/JavaVienna/2024-04-08_hibernate_6.4_quarkus_insights/blob/main/Deep%20dive%20into%20Hibernate%20ORM%206.4%20features.pdf)] [[Code](https://github.com/JavaVienna/2024-04-08_hibernate_6.4_quarkus_insights)] [[Video 1](https://www.youtube.com/watch?v=QS4nT6ffVRA&t=9s&pp=ygUQcXVhcmt1cyBpbnNpZ2h0cw%3D%3D)] [[Video 2](https://www.youtube.com/watch?v=0Z84qAEzoZg&pp=ygUQcXVhcmt1cyBpbnNpZ2h0cw%3D%3D)]
