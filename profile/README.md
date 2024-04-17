@@ -49,7 +49,7 @@
 
 ### June Meetup #1: [2023-06-05](https://www.meetup.com/java-vienna/events/292086264/)
 * <strong>E.D.D.I. - Conversational AI Middleware mit Quarkus</strong> - [Gregor Jarisch](https://github.com/ginccc) [[Slides](https://github.com/JavaVienna/2023-06-05_EDDI_Conversational_AI/blob/main/EDDI_5_chatGPT_quarkus_java_meetup.pdf)] [[Code](https://github.com/JavaVienna/2023-06-05_EDDI_Conversational_AI)]
-* <strong>Quarkus + Kubernetes</strong>  - [Onur Kasimlar](https://github.com/kasimlar-onur) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Quarkus + Kubernetes</strong>  - [Onur Kasimlar](https://github.com/okasimlar) [[Slides](https://github.com/domdorn/2023-06-05_quarkus-opentelemetry/blob/main/QUARKUS_KUBERNETES.pdf)] [[Code Quarkus+K8s](https://github.com/JavaVienna/2023-06-05_quarkus-kubernetes)] [[Code Quarkus+Opentelemetry](https://github.com/domdorn/2023-06-05_quarkus-opentelemetry)]
 
 ### May Meetup: [2023-05-15](https://www.meetup.com/java-vienna/events/292086252/)
 * <strong>Solid: Foundation of Web3.0 for Java Devs</strong>  - [Timea Turdean](https://github.com/timea-solid) [[Slides](https://github.com/JavaVienna/2023-05-15_solid-client-java/blob/main/Final%20-%20Solid%20at%20JSUG%20Vienna%202023.pdf)] [[Code](https://github.com/JavaVienna/2023-05-15_solid-client-java)]
