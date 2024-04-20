@@ -150,7 +150,7 @@
 * <strong>Maximizing Performance with GraalVM: Java + Scala!</strong> - [Thomas Wuerthinger](https://github.com/thomaswue) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 ### June Meetup: [2019-06-24](https://www.meetup.com/java-vienna/events/261610117/)
-* <strong>Spaß mit Microservices: Transaktionen</strong> - [Lars Röwekamp](https://github.com/mobileLarson) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Spaß mit Microservices: Transaktionen</strong> - [Lars Röwekamp](https://github.com/mobileLarson) [[Slides](https://github.com/JavaVienna/2019-06-24_microservices_transactions/blob/main/se_microservices_tx.pdf)] [[Workflow Engines](https://github.com/JavaVienna/2019-06-24_awesome-workflow-engines)]
 * <strong>Demystifying Java Language Features 9 - 11</strong> - [Ionut Balosin](https://github.com/ionutbalosin) [[Slides](https://github.com/JavaVienna/2019-06-24_demystifying_java_lang_features_9_11/blob/main/Demystifying-the-most-significant-Java-language-features-from-9-to-11.pdf)]
 
 ### May Workshop: [2019-05-27](https://www.meetup.com/java-vienna/events/261287027/)
