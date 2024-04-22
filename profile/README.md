@@ -46,7 +46,7 @@
 
 ### September Meetup: [2023-09-25](https://www.meetup.com/java-vienna/events/295903398/)
 * <strong>Event-Driven Architecture aka. 7 years with Axon Framework</strong> - [Andreas Grill](https://github.com/andreasgrill) [Gerhard Hipfinger](https://github.com/nano4711) [[Slides](https://github.com/JavaVienna/2023-09-25_axon/blob/main/open200_SevenYearsWithAxonFramework.pdf)]
-* <strong>The beauty of the monolith</strong>  - [Philipp Seifert-Kehrer TODO](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>The beauty of the monolith</strong>  - [Philipp Seifert-Kehrer](https://github.com/original-flipster69) [[Slides](https://github.com/JavaVienna/2023-09-25_beauty_of_the_monolith/blob/main/mono_good_micro_bad.pdf)]
 
 ### June Meetup #2: [2023-06-26](https://www.meetup.com/java-vienna/events/293018565/)
 * <strong>Microservice communication done right</strong>  - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides](https://github.com/JavaVienna/2023-06-26_microservice_communication_done_right/blob/main/Microservice-communication-done-right-2023-06-26-java-meetup-Damjan.pdf)] [[Code TODO](#TODO)]
