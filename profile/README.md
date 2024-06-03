@@ -2,6 +2,18 @@
 
 ## 2024
 
+### June Meetup #2: [2024-06-24](https://www.meetup.com/java-vienna/events/298383004/)
+* <strong>Have you ever considered just not writing bugs?</strong> - [Tagir Valeev](https://github.com/amaembo) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>xx</strong> - [XXX](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### June Meetup #1: [2024-06-03](https://www.meetup.com/java-vienna/events/298383003/)
+* <strong>Privacy leaks beyond the class-level: protecting personal data</strong> - [Catherine Easdon](https://twitter.com/cat_easdon)  [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Change Data Capturing</strong> - [Hans-Peter Grahsl](https://github.com/hpgrahsl) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+### May Meetup "Venkat Edition": [2024-05-06](https://www.meetup.com/java-vienna/events/298383001/)
+* <strong>Design Patterns Revisited in Modern Java</strong> - [Venkat Subramaniam](https://github.com/venkats)
+* <strong>Know your Java?</strong> - ]Venkat Subramaniam](https://github.com/venkats)
+
 ### April Meetup #2: [2024-04-17](https://www.meetup.com/java-vienna/events/300027723/)
 * <strong>Prepare for Jakarta EE11</strong> - [Ed Burns](https://github.com/edburns) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 * <strong>AI Talk</strong> - [Ed Burns](https://github.com/edburns) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
