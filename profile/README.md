@@ -2,6 +2,10 @@
 
 ## 2024
 
+### September Meetup: [2024-09-30](https://www.meetup.com/java-vienna/events/298383006/)
+* <strong>The beauty of Event-Sourcing</strong> [Jakob Durstberger](https://github.com/JDurstberger) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Event Sourcing with Axon Framework</strong> [Andreas Grill](https://github.com/andreasgrill) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
 ### June Meetup #2: [2024-06-24](https://www.meetup.com/java-vienna/events/298383004/)
 * <strong>Have you ever considered just not writing bugs?</strong> - [Tagir Valeev](https://github.com/amaembo) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 * <strong>xx</strong> - [XXX](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
@@ -12,7 +16,7 @@
 
 ### May Meetup "Venkat Edition": [2024-05-06](https://www.meetup.com/java-vienna/events/298383001/)
 * <strong>Design Patterns Revisited in Modern Java</strong> - [Venkat Subramaniam](https://github.com/venkats)
-* <strong>Know your Java?</strong> - ]Venkat Subramaniam](https://github.com/venkats)
+* <strong>Know your Java?</strong> - [Venkat Subramaniam](https://github.com/venkats)
 
 ### April Meetup #2: [2024-04-17](https://www.meetup.com/java-vienna/events/300027723/)
 * <strong>Prepare for Jakarta EE11</strong> - [Ed Burns](https://github.com/edburns) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
