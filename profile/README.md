@@ -12,7 +12,7 @@
 
 ### June Meetup #1: [2024-06-03](https://www.meetup.com/java-vienna/events/298383003/)
 * <strong>Privacy leaks beyond the class-level: protecting personal data</strong> - [Catherine Easdon](https://github.com/cattius)  [[Slides](https://github.com/JavaVienna/2024-06-03_privacy_leaks/blob/main/privacy-leaks.pdf)]
-* <strong>Change Data Capturing</strong> - [Hans-Peter Grahsl](https://github.com/hpgrahsl) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Change Data Capturing</strong> - [Hans-Peter Grahsl](https://github.com/hpgrahsl) [[Slides](https://github.com/JavaVienna/2024-06-03_CDC_Debezium/blob/main/CDC_with_Debezium_ViennaJUG__1_.pdf)] [[Code TODO](#TODO)]
 
 ### May Meetup "Venkat Edition": [2024-05-06](https://www.meetup.com/java-vienna/events/298383001/)
 * <strong>Design Patterns Revisited in Modern Java</strong> - [Venkat Subramaniam](https://github.com/venkats)
