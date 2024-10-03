@@ -7,7 +7,7 @@
 * <strong>Event Sourcing with Axon Framework</strong> [Andreas Grill](https://github.com/andreasgrill) [[Slides](https://github.com/JavaVienna/2024-09-30_axon-framework-sample/blob/main/java_meetup_240930_axon_livecoding.pdf)] [[Code](https://github.com/JavaVienna/2024-09-30_axon-framework-sample/)]
 
 ### June Meetup #2: [2024-06-24](https://www.meetup.com/java-vienna/events/298383004/)
-* <strong>Is your spring boot application in Kubernetes secure?</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Is your spring boot application in Kubernetes secure?</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides](https://github.com/JavaVienna/2024-06-24_spring_boot_k8s_security/blob/main/2024-06-24-java-meetup-is-your-app-secure.pdf)] [[Code TODO](#TODO)]
 * <strong>Have you ever considered just not writing bugs?</strong> - [Tagir Valeev](https://github.com/amaembo) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 ### June Meetup #1: [2024-06-03](https://www.meetup.com/java-vienna/events/298383003/)
