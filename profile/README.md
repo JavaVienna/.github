@@ -3,7 +3,7 @@
 ## 2024
 
 ### September Meetup: [2024-09-30](https://www.meetup.com/java-vienna/events/298383006/)
-* <strong>The beauty of Event-Sourcing</strong> [Jakob Durstberger](https://github.com/JDurstberger) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>The beauty of Event-Sourcing</strong> [Jakob Durstberger](https://github.com/JDurstberger) [[Slides](https://github.com/JavaVienna/2024-09-30_beauty_of_eventsourcing/blob/main/The%20Beauty%20of%20Event%20Sourcing.pdf)] [[Code TODO](#TODO)]
 * <strong>Event Sourcing with Axon Framework</strong> [Andreas Grill](https://github.com/andreasgrill) [[Slides](https://github.com/JavaVienna/2024-09-30_axon-framework-sample/blob/main/java_meetup_240930_axon_livecoding.pdf)] [[Code](https://github.com/JavaVienna/2024-09-30_axon-framework-sample/)]
 
 ### June Meetup #2: [2024-06-24](https://www.meetup.com/java-vienna/events/298383004/)
