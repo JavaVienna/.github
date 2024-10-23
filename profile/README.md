@@ -3,7 +3,7 @@
 ## 2024
 
 ### October Meetup: [2024-10-21](https://www.meetup.com/java-vienna/events/298383008/)
-* <strong>Messaging with Spring - ActiveMQ vs. RabbitMQ</strong> - [Milan Gogic](https://github.com/GogicM) [[Slides](https://github.com/JavaVienna/2024-10-21_messaging_activemq_rabbitmq/blob/master/ActiveMQ%20RabbitMq%20With%20spring%20Presentation%20PP-1.pdf)]] [[Code](https://github.com/JavaVienna/2024-10-21_messaging_activemq_rabbitmq/)]
+* <strong>Messaging with Spring - ActiveMQ vs. RabbitMQ</strong> - [Milan Gogic](https://github.com/GogicM) [[Slides](https://github.com/JavaVienna/2024-10-21_messaging_activemq_rabbitmq/blob/master/ActiveMQ%20RabbitMq%20With%20spring%20Presentation%20PP-1.pdf)] [[Code](https://github.com/JavaVienna/2024-10-21_messaging_activemq_rabbitmq/)]
 * <strong>Contract Testing in Java</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 ### September Meetup: [2024-09-30](https://www.meetup.com/java-vienna/events/298383006/)
@@ -11,8 +11,8 @@
 * <strong>Event Sourcing with Axon Framework</strong> [Andreas Grill](https://github.com/andreasgrill) [[Slides](https://github.com/JavaVienna/2024-09-30_axon-framework-sample/blob/main/java_meetup_240930_axon_livecoding.pdf)] [[Code](https://github.com/JavaVienna/2024-09-30_axon-framework-sample/)]
 
 ### June Meetup #2: [2024-06-24](https://www.meetup.com/java-vienna/events/298383004/)
-* <strong>Is your spring boot application in Kubernetes secure?</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides](https://github.com/JavaVienna/2024-06-24_spring_boot_k8s_security/blob/main/2024-06-24-java-meetup-is-your-app-secure.pdf)] [[Code TODO](#TODO)]
-* <strong>Have you ever considered just not writing bugs?</strong> - [Tagir Valeev](https://github.com/amaembo) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Is your spring boot application in Kubernetes secure?</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides](https://github.com/JavaVienna/2024-06-24_spring_boot_k8s_security/blob/main/2024-06-24-java-meetup-is-your-app-secure.pdf)]
+* <strong>Have you ever considered just not writing bugs?</strong> - [Tagir Valeev](https://github.com/amaembo) [[Slides](https://github.com/JavaVienna/2024-06-24_less_bugs/blob/main/lessbugs_vienna.pdf)]
 
 ### June Meetup #1: [2024-06-03](https://www.meetup.com/java-vienna/events/298383003/)
 * <strong>Privacy leaks beyond the class-level: protecting personal data</strong> - [Catherine Easdon](https://github.com/cattius)  [[Slides](https://github.com/JavaVienna/2024-06-03_privacy_leaks/blob/main/privacy-leaks.pdf)]
