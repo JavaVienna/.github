@@ -2,6 +2,11 @@
 
 ## 2024
 
+### November Meetup #1: [2024-11-11](https://www.meetup.com/java-vienna/events/298383012/)
+* <strong>Everything You Always Wanted To Know About OpenAPI</strong> - [Siegfried Göschl](https://github.com/sgoeschl)  [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>API First revisited - where did we take a left turn?</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
+
 ### October Meetup: [2024-10-21](https://www.meetup.com/java-vienna/events/298383008/)
 * <strong>Messaging with Spring - ActiveMQ vs. RabbitMQ</strong> - [Milan Gogic](https://github.com/GogicM) [[Slides](https://github.com/JavaVienna/2024-10-21_messaging_activemq_rabbitmq/blob/master/ActiveMQ%20RabbitMq%20With%20spring%20Presentation%20PP-1.pdf)] [[Code](https://github.com/JavaVienna/2024-10-21_messaging_activemq_rabbitmq/)]
 * <strong>Contract Testing in Java</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
