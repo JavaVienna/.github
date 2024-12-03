@@ -2,6 +2,10 @@
 
 ## 2024
 
+### November Meetup #2: [2024-11-25](https://www.meetup.com/java-vienna/events/298383014/)
+* <strong>Pure, "No Dependencies" Java LLM Integration</strong> - [Adam Bien](https://github.com/adambien/) [[Code](https://github.com/JavaVienna/2024-11-25_java_llm)]
+* <strong>The Only Reasonable Way To Test Your (Micro) Services</strong> - [Adam Bien](https://github.com/adambien/)
+
 ### November Meetup #1: [2024-11-11](https://www.meetup.com/java-vienna/events/298383012/)
 * <strong>Everything You Always Wanted To Know About OpenAPI</strong> - [Siegfried Göschl](https://github.com/sgoeschl)  [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 * <strong>API First revisited - where did we take a left turn?</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
