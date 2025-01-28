@@ -1,5 +1,10 @@
 # Java Vienna Meetup
 
+## 2025
+* <strong>How to optimize JPA: The SQL Police</strong> - [Philipp Seifert-Kehrer](https://github.com/original-flipster69) [[Code](https://github.com/JavaVienna/2025-01-27_sql-police)]
+* <strong>The power of Graal: Using JavaScript, Python and WebAssembly in your Java Apps</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2025-01-27_graalvm_polyglot/blob/main/presentation/presentation.pdf)] [[Code](https://github.com/JavaVienna/2025-01-27_graalvm_polyglot)] 
+
+
 ## 2024
 
 ### November Meetup #2: [2024-11-25](https://www.meetup.com/java-vienna/events/298383014/)
