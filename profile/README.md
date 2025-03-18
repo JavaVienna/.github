@@ -7,7 +7,7 @@
 * <strong>Trustworthy Enterprise AI in your IDE</strong> - [Ed Burns](https://github.com/edburns) [[Slides](https://github.com/JavaVienna/2025-03-17_trustworthy_enterprise_ai/blob/main/20250317-eb-7084-trusted-ai-favorite-ide-java-vienna-meetup.pdf)]
 
 ### February Meetup: [2025-02-24](https://www.meetup.com/java-vienna/events/305897185/)
-* <strong>zero downtime monolith decomposition</strong> - [Jakob Fiegerl](https://github.com/jakob-fiegerl) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
+* <strong>zero downtime monolith decomposition</strong> - [Jakob Fiegerl](https://github.com/jakob-fiegerl) [[Slides](https://github.com/JavaVienna/2025-02-24_zero-downtime-monolith-decomposition/blob/main/zero-downtime%20monolith%20decomposition.pdf)]
 * <strong>Evil performance Testing</strong> - [Siegfried Göschl](https://github.com/sgoeschl)  [[Slides](https://github.com/JavaVienna/2025-02-24_evil_performance_testing/blob/master/slides/evil-performance-testing.pdf)] [[Code](https://github.com/JavaVienna/2025-02-24_evil_performance_testing/)] [[Code Sample App](https://github.com/JavaVienna/2025-02-24_evil_performance_testing_springboot-httpbin)]
 
 ### January Meetup: [2025-01-27](https://www.meetup.com/java-vienna/events/305515073/)
