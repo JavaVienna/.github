@@ -8,7 +8,7 @@
 
 ### February Meetup: [2025-02-24](https://www.meetup.com/java-vienna/events/305897185/)
 * <strong>zero downtime monolith decomposition</strong> - [Jakob Fiegerl](https://github.com/jakob-fiegerl) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
-* <strong>Evil performance Testing</strong> - [Siegfried Göschl](https://github.com/sgoeschl)  [[Slides](https://github.com/JavaVienna/2025-02-24_evil_performance_testing/blob/master/slides/evil-performance-testing.pdf)] [[Code](https://github.com/JavaVienna/2025-02-24_evil_performance_testing/)]
+* <strong>Evil performance Testing</strong> - [Siegfried Göschl](https://github.com/sgoeschl)  [[Slides](https://github.com/JavaVienna/2025-02-24_evil_performance_testing/blob/master/slides/evil-performance-testing.pdf)] [[Code](https://github.com/JavaVienna/2025-02-24_evil_performance_testing/)] [[Code Sample App](https://github.com/JavaVienna/2025-02-24_evil_performance_testing_springboot-httpbin)]
 
 ### January Meetup: [2025-01-27](https://www.meetup.com/java-vienna/events/305515073/)
 * <strong>How to optimize JPA: The SQL Police</strong> - [Philipp Seifert-Kehrer](https://github.com/original-flipster69) [[Slides](https://github.com/JavaVienna/2025-01-27_sql-police/blob/master/2025-01-27_Java-meetup-Philipp_sql-police.pdf)] [[Code](https://github.com/JavaVienna/2025-01-27_sql-police)] [[Article](https://originalflipster.com/rants/marie-kondo-sql-queries/)]
