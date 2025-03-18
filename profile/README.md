@@ -2,13 +2,15 @@
 
 ## 2025
 
-### March Meetup:
+### March Meetup: [2025-03-17](https://www.meetup.com/java-vienna/events/305897191/)
 * <strong>Keycloak as your BaaS - from zero to hero</strong> - [Michael Riedmann](https://github.com/mriedmann) [[Slides #TODO](#TODO)] [[Code](https://github.com/JavaVienna/2025-03-17_keycloak_as_a_BaaS)]
 * <strong>Trustworthy Enterprise AI in your IDE</strong> - [Ed Burns](https://github.com/edburns) [[Slides #TODO](#TODO)]
 
-### February Meetup:
+### February Meetup: [2025-02-24](https://www.meetup.com/java-vienna/events/305897185/)
+* <strong>zero downtime monolith decomposition</strong> - [Jakob Fiegerl](https://github.com/jakob-fiegerl) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
+* <strong>Evil performance Testing</strong> - [Siegfried Göschl](https://github.com/sgoeschl)  [[Slides](https://github.com/JavaVienna/2025-02-24_evil_performance_testing/blob/master/slides/evil-performance-testing.pdf)] [[Code](https://github.com/JavaVienna/2025-02-24_evil_performance_testing/)]
 
-### January Meetup: 
+### January Meetup: [2025-01-27](https://www.meetup.com/java-vienna/events/305515073/)
 * <strong>How to optimize JPA: The SQL Police</strong> - [Philipp Seifert-Kehrer](https://github.com/original-flipster69) [[Slides](https://github.com/JavaVienna/2025-01-27_sql-police/blob/master/2025-01-27_Java-meetup-Philipp_sql-police.pdf)] [[Code](https://github.com/JavaVienna/2025-01-27_sql-police)] [[Article](https://originalflipster.com/rants/marie-kondo-sql-queries/)]
 * <strong>The power of Graal: Using JavaScript, Python and WebAssembly in your Java Apps</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2025-01-27_graalvm_polyglot/blob/main/presentation/presentation.pdf)] [[Code](https://github.com/JavaVienna/2025-01-27_graalvm_polyglot)] 
 
