@@ -2,7 +2,7 @@
 
 ## 2025
 
-### May Meetup #1: [2025-05-05]()
+### May Meetup #1: [2025-05-05](https://www.meetup.com/java-vienna/events/305897200/)
 * <strong>JVMTI - JVM Tool Interface</strong> - [Kevin Watzal](https://github.com/doompickaxe) [[Slides](https://github.com/JavaVienna/2025-05-05_jvmti-jvm_tool_interface/blob/master/slides-compressed.pdf)] [[Code](https://github.com/JavaVienna/2025-05-05_jvmti-jvm_tool_interface/)]
 * <strong>Fun with Flags! OpenFeature</strong> - [Simon Schrottner](https://github.com/aepfli) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
