@@ -4,7 +4,7 @@
 
 ### May Meetup #1: [2025-05-05](https://www.meetup.com/java-vienna/events/305897200/)
 * <strong>JVMTI - JVM Tool Interface</strong> - [Kevin Watzal](https://github.com/doompickaxe) [[Slides](https://github.com/JavaVienna/2025-05-05_jvmti-jvm_tool_interface/blob/master/slides-compressed.pdf)] [[Code](https://github.com/JavaVienna/2025-05-05_jvmti-jvm_tool_interface/)]
-* <strong>Fun with Flags! OpenFeature</strong> - [Simon Schrottner](https://github.com/aepfli) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Fun with Flags! OpenFeature</strong> - [Simon Schrottner](https://github.com/aepfli) [[Slides](https://github.com/JavaVienna/2025-05-05_Fun-With-Flags/blob/main/folien.pdf)] [[Code](https://github.com/JavaVienna/2025-05-05_Fun-With-Flags/)] [[Tutorial Java Getting Started](https://openfeature.dev/docs/tutorials/getting-started/java)]
 
 ### April Meetup: [2025-04-07](https://www.meetup.com/java-vienna/events/305897193/)
 * <strong>Truffle Metacompilation in Action</strong> - [Christian Humer](https://github.com/chumer) [[Slides](https://github.com/JavaVienna/2025-04-07_truffle_metacompilation_pedemo/blob/master/2025-04-Vienna.pdf)] [[Code PEDemo](https://github.com/JavaVienna/2025-04-07_truffle_metacompilation_pedemo)] [[Code Tinylang](https://github.com/JavaVienna/2025-04-07_truffle_metacompilation_tinylang)]
