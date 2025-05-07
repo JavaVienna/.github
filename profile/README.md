@@ -2,6 +2,10 @@
 
 ## 2025
 
+### May Meetup #1: [2025-05-05]()
+* <strong>JVMTI - JVM Tool Interface</strong> - [Kevin Watzal](https://github.com/doompickaxe) [[Slides](https://github.com/JavaVienna/2025-05-05_jvmti-jvm_tool_interface/blob/master/slides-compressed.pdf)] [[Code](https://github.com/JavaVienna/2025-05-05_jvmti-jvm_tool_interface/)]
+* <strong>Fun with Flags! OpenFeature</strong> - [Simon Schrottner](https://github.com/aepfli) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+
 ### April Meetup: [2025-04-07](https://www.meetup.com/java-vienna/events/305897193/)
 * <strong>Truffle Metacompilation in Action</strong> - [Christian Humer](https://github.com/chumer) [[Slides](https://github.com/JavaVienna/2025-04-07_truffle_metacompilation_pedemo/blob/master/2025-04-Vienna.pdf)] [[Code PEDemo](https://github.com/JavaVienna/2025-04-07_truffle_metacompilation_pedemo)] [[Code Tinylang](https://github.com/JavaVienna/2025-04-07_truffle_metacompilation_tinylang)]
 * <strong>Trash Talk - Exploring the JVM memory management</strong> - [Gerrit Grunwald](https://github.com/hansolo) [[Slides](https://github.com/JavaVienna/2025-04-07_trashtalk_jvm_garbage_collectors/blob/main/TrashTalk_GerritGrunwald.pdf)] [[Code](https://github.com/JavaVienna/2025-04-07_trashtalk_jvm_garbage_collectors)]
