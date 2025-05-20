@@ -2,6 +2,10 @@
 
 ## 2025
 
+### May Meetup #2: [2025-05-19](https://www.meetup.com/java-vienna/events/306898838/)
+* <strong>Vaadin24 in the real world - Java Vienna Raffle</strong> - [Sebastian Kühnau](https://github.com/SebastianKuehnau) [[Slides TODO](#TODO)] [[Code]([#TODO](https://github.com/JavaVienna/2025-05-19_vaadin24-in-the-real-world))]
+* <strong>Mill - Engineering a better Java Build Tool</strong> - [Haoyi Li](https://github.com/lihaoyi) [[Slides](https://github.com/JavaVienna/2025-05-19_mill-engineering-better-java-build-tool/blob/main/slides.pdf)] [[Code TODO](#TODO)
+
 ### May Meetup #1: [2025-05-05](https://www.meetup.com/java-vienna/events/305897200/)
 * <strong>JVMTI - JVM Tool Interface</strong> - [Kevin Watzal](https://github.com/doompickaxe) [[Slides](https://github.com/JavaVienna/2025-05-05_jvmti-jvm_tool_interface/blob/master/slides-compressed.pdf)] [[Code](https://github.com/JavaVienna/2025-05-05_jvmti-jvm_tool_interface/)]
 * <strong>Fun with Flags! OpenFeature</strong> - [Simon Schrottner](https://github.com/aepfli) [[Slides](https://github.com/JavaVienna/2025-05-05_Fun-With-Flags/blob/main/folien.pdf)] [[Code](https://github.com/JavaVienna/2025-05-05_Fun-With-Flags/)] [[Tutorial Java Getting Started](https://openfeature.dev/docs/tutorials/getting-started/java)]
