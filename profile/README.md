@@ -8,7 +8,7 @@
 
 ### June Meetup #1: [2025-06-02](https://www.meetup.com/java-vienna/events/305897255/)
 * <strong>OpenRewrite in a Nutshell: Scaling Upgrades with Practical Insights</strong> - [Simon Gartner](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
-* <strong>how John started to like TDD (instead of hating it)</strong> - [Nacho Cougil](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>how John started to like TDD (instead of hating it)</strong> - [Nacho Cougil](https://github.com/icougil) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
   
 ### May Meetup #2: [2025-05-19](https://www.meetup.com/java-vienna/events/306898838/)
 * <strong>Vaadin24 in the real world - Java Vienna Raffle</strong> - [Sebastian Kühnau](https://github.com/SebastianKuehnau) [[Slides TODO](#TODO)] [[Code](https://github.com/JavaVienna/2025-05-19_vaadin24-in-the-real-world)]
