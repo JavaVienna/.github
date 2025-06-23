@@ -7,7 +7,7 @@
 * <strong>How to develop, run and optimize Spring Boot 3 application on AWS Lambda</strong> - [Vadym Kazulkin](https://github.com/Vadym79) [[Slides](https://github.com/JavaVienna/2025-06-16_java_serverless_springboot_aws/blob/main/How%20to%20develop%2C%20run%20and%20optimize%20Spring%20Boot%203%20application%20on%20AWS%20Lambda-AWS%20and%20Java%20User%20Group%20Vienna%202025.pdf)] [[Code TODO](#TODO)]
 
 ### June Meetup #1: [2025-06-02](https://www.meetup.com/java-vienna/events/305897255/)
-* <strong>OpenRewrite in a Nutshell: Scaling Upgrades with Practical Insights</strong> - [Simon Gartner](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>OpenRewrite in a Nutshell: Scaling Upgrades with Practical Insights</strong> - [Simon Gartner](https://github.com/sgartner03) [[Slides](https://github.com/JavaVienna/2025-06-02-openrewrite-in-a-nutshell/blob/main/OpenRewriteInANutshell.pdf)] [[Code](https://github.com/JavaVienna/2025-06-02-openrewrite-in-a-nutshell)]
 * <strong>how John started to like TDD (instead of hating it)</strong> - [Nacho Cougil](https://github.com/icougil) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
   
 ### May Meetup #2: [2025-05-19](https://www.meetup.com/java-vienna/events/306898838/)
