@@ -3,7 +3,7 @@
 ## 2025
 
 ### September Meetup: [2025-09-22](https://www.meetup.com/java-vienna/events/305897281/)
-* <strong>Java Performance: Beyond Simple Request Latencies</strong> - [John Ceccarelli](https://github.com/johnceccarelli) [[Slides #TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Java Performance: Beyond Simple Request Latencies</strong> - [John Ceccarelli](https://github.com/johnceccarelli) [[Slides](https://github.com/JavaVienna/2025-09-22_java_performance/blob/main/slides.pdf)]
 * <strong>From Zero to Hero: Mastering Domain-Driven Design in Java</strong> - [Otavio Santana](https://github.com/otaviojava) [[Slides](https://github.com/JavaVienna/2025-09-22_mastering_ddd/blob/main/slides.pdf)] [[Code](https://github.com/JavaVienna/2025-09-22_mastering_ddd)]
 
 ### June Meetup #2 - AWS Lambda Special: [2025-06-16](https://www.meetup.com/java-vienna/events/305897281/)
