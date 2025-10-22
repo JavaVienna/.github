@@ -2,6 +2,23 @@
 
 ## 2025
 
+
+### October Meetup: [2025-10-20](https://www.meetup.com/java-vienna/events/310834925/)
+* <strong>Java 25</strong> - [Mohsen Ahmadian]([https://github.com/johnceccarelli](https://github.com/mohsenetc)) [[Slides #TODO](#TODO)] [[Code #TODO]](#TODO)
+* <strong>GraalVM 25</strong> - [Gergö Barany](https://github.com/gergo-) [[Slides #TODO]](#TODO)
+  * [GraalPy QR code](https://github.com/javaVienna/2025-10-20_graal-languages-demos/tree/main/graalpy/graalpy-jbang-qrcode)
+  * [GraalPy on Spring Boot](https://github.com/javaVienna/2025-10-20_graal-languages-demos/tree/main/graalpy/graalpy-spring-boot-guide)
+  * [Rust compiled to WebAssembly on Spring Boot](https://github.com/javaVienna/2025-10-20_graal-languages-demos/tree/main/graalwasm/graalwasm-spring-boot-photon)
+  * [javac running in the browser](https://graalvm.github.io/graalvm-demos/native-image/wasm-javac/)
+  * <strong>Native Image layers:</strong> [Docs](https://github.com/javaVienna/2025-10-20_graal/blob/master/substratevm/src/com.oracle.svm.core/src/com/oracle/svm/core/imagelayer/NativeImageLayers.md) [Demo](https://github.com/javaVienna/2025-10-20_graalvm-demos/tree/master/native-image/microservices/micronaut-hello-rest-maven-layered)
+  * <strong>Some recent blog posts</strong>
+    * https://medium.com/graalvm/javascript-in-java-driving-dynamic-uis-with-graalvm-at-scale-f552fb174df3
+    * https://blogs.oracle.com/mysql/post/webassembly-integration-for-nextgen-data-apps-in-mysql
+  * <strong>Recent talks</strong>
+    * [GraalVM meets WebAssembly](https://m.devoxx.com/events/dvbe25/talks/7023/graalvm-meets-webassembly)
+    * Also check out other [GraalVM talks at Devoxx Belgium 2025](https://m.devoxx.com/events/dvbe25/talks)
+
+
 ### September Meetup: [2025-09-22](https://www.meetup.com/java-vienna/events/305897281/)
 * <strong>Java Performance: Beyond Simple Request Latencies</strong> - [John Ceccarelli](https://github.com/johnceccarelli) [[Slides](https://github.com/JavaVienna/2025-09-22_java_performance/blob/main/slides.pdf)]
 * <strong>From Zero to Hero: Mastering Domain-Driven Design in Java</strong> - [Otavio Santana](https://github.com/otaviojava) [[Slides](https://github.com/JavaVienna/2025-09-22_mastering_ddd/blob/main/slides.pdf)] [[Code](https://github.com/JavaVienna/2025-09-22_mastering_ddd)]
