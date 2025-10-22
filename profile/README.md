@@ -4,7 +4,7 @@
 
 
 ### October Meetup: [2025-10-20](https://www.meetup.com/java-vienna/events/310834925/)
-* <strong>Java 25</strong> - [Mohsen Ahmadian]([https://github.com/johnceccarelli](https://github.com/mohsenetc)) [[Slides #TODO](#TODO)] [[Code #TODO]](#TODO)
+* <strong>Java 25</strong> - [Mohsen Ahmadian](https://github.com/mohsenetc) [[Slides #TODO](#TODO)] [[Code #TODO]](#TODO)
 * <strong>GraalVM 25</strong> - [Gergö Barany](https://github.com/gergo-) [[Slides #TODO]](#TODO)
   * [GraalPy QR code](https://github.com/javaVienna/2025-10-20_graal-languages-demos/tree/main/graalpy/graalpy-jbang-qrcode)
   * [GraalPy on Spring Boot](https://github.com/javaVienna/2025-10-20_graal-languages-demos/tree/main/graalpy/graalpy-spring-boot-guide)
