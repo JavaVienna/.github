@@ -399,13 +399,13 @@
 * <strong>Accessing Web Sites as Web Services</strong> - Andreas Hubmer [[Slides](https://github.com/JavaVienna/2009-03-02_accessing_web_sites_as_web_services/blob/main/JSUG-Slides%20ServiceEnabler-Andreas%20Hubmer.pdf)]
 * <strong>Hoppla - Small and Home Office Backup and Migration</strong> - Florian Motlik [[Slides](https://github.com/JavaVienna/2009-03-02_hoppla_small_and_home_office_backup_and_migration/blob/main/JSUG-Slides%20Hoppla-Motlik%20Petrov.pdf)]
 * <strong>TIM aka EPROG2 with Ruby on Rails</strong> [[Slides](https://github.com/JavaVienna/2009-03-02_tim_aka_eprog2_ruby_rails/blob/main/JSUG-Slides%20TIM%20aka%20EPROG2-Martin%20Schuerrer.pdf)]
-* <strong>The Sound of Shopping</strong> - Christoph Pickl [[Slides](https://github.com/JavaVienna/2009-03-02_sound_of_shopping/blob/main/JSUG-Slides%20Sound%20of%20Shopping-Christoph%20Pickl.pdf)]
+* <strong>The Sound of Shopping</strong> - Christoph P. [[Slides](https://github.com/JavaVienna/2009-03-02_sound_of_shopping/blob/main/JSUG-Slides_Sound_of_Shopping-Christoph_P.pdf)]
 
 ### Meetup: [2009-02-23]()
 * <strong>TeX, LaTeX und der ganze Rest</strong> [[Slides](https://github.com/JavaVienna/2009-02-23_tex_latex_und_der_ganze_rest/blob/main/JSUG-Tex%20Latex%20und%20der%20Rest-Norbert%20Preining.pdf)]
-* <strong>LaTeX Quickintro</strong> - Christoph Pickl [[Slides](https://github.com/JavaVienna/2009-02-23_latex_quickintro/blob/main/JSUG-TexDay%20Introduction-Christoph%20Pickl.pdf)]
+* <strong>LaTeX Quickintro</strong> - Christoph P. [[Slides](https://github.com/JavaVienna/2009-02-23_latex_quickintro/blob/main/JSUG-TexDay_Introduction-Christoph_P.pdf)]
 * <strong>Layouting with the memoir class</strong> - Martin Schürrer [[Slides](https://github.com/JavaVienna/2009-02-23_layouting_memoir_class/blob/main/JSUG-Slides%20Memoir-Martin%20Schuerrer.pdf)]
-* <strong>Producing HTML and Slides with LaTeX</strong> [[Slides](https://github.com/JavaVienna/2009-02-23_producing_html_and_slides_latex/blob/main/JSUG-TexDay-Christoph%20Pickl.pdf)] [[Code](https://github.com/JavaVienna/2009-02-23_producing_html_and_slides_latex/blob/main/JSUG-TexDay%20Beamer%20Sources-Christoph%20Pickl.zip)]
+* <strong>Producing HTML and Slides with LaTeX</strong> [[Slides](https://github.com/JavaVienna/2009-02-23_producing_html_and_slides_latex/blob/main/JSUG-TexDay-Christoph_P.pdf)] [[Code](https://github.com/JavaVienna/2009-02-23_producing_html_and_slides_latex/blob/main/JSUG-TexDay_Beamer_Sources-Christoph_P.zip)]
 
 ### Meetup: [2009-02-02]()
 * <strong>Event Driven Architectures with Open Source Frameworks</strong> [[Slides](https://github.com/JavaVienna/2009-02-02_event_driven_architectures_open_source_frameworks/blob/main/JSUG-Slides%20EDA-Alexander%20Schatten.pdf)]
@@ -426,7 +426,7 @@
 ### Meetup: [2008-10-13]()
 * <strong>Inversion of Control</strong> [[Slides](https://github.com/JavaVienna/2008-10-13_inversion_of_control/blob/main/JSUG-Inversion%20of%20Control-Florian%20Motlik.pdf)]
 * <strong>Guice</strong> [[Slides](https://github.com/JavaVienna/2008-10-13_guice/blob/main/JSUG-Slides-Google%20Guice-Jan%20Zarnikov.pdf)] [[Code](https://github.com/JavaVienna/2008-10-13_guice/blob/main/Jsug-guice-demo-project.zip)]
-* <strong>Springframework</strong> [[Slides](https://github.com/JavaVienna/2008-10-13_springframework/blob/main/JSUG-Slides_Spring_Christoph_Pickl.pdf)]
+* <strong>Springframework</strong> [[Slides](https://github.com/JavaVienna/2008-10-13_springframework/blob/main/JSUG-Slides_Spring_Christoph_P.pdf)]
 
 ### Meetup: [2008-07-07]()
 * <strong>Maven Reloaded</strong> [[Slides](https://github.com/JavaVienna/2008-07-07_maven_reloaded/blob/main/JSUG-Slides-Maven-Michael_Greifeneder.pdf)]
@@ -434,7 +434,7 @@
 
 ### Meetup: [2008-06-16]()
 * <strong>OSGi - The Next Generation Java Service Platform</strong> [[Slides](https://github.com/JavaVienna/2008-06-16_osgi_next_generation_java_service_platform/blob/main/JSUG-Slides-OSGi-Michael_Greifeneder.pdf)]
-* <strong>TechTips #1</strong> [[Slides](https://github.com/JavaVienna/2008-06-16_techtips_1/blob/main/JSUG-Slides_TechTips1_Christoph_Pickl.pdf)]
+* <strong>TechTips #1</strong> [[Slides](https://github.com/JavaVienna/2008-06-16_techtips_1/blob/main/JSUG-Slides_TechTips1_Christoph_P.pdf)]
 
 ### Meetup: [2008-05-27]()
 * <strong>Christoph Atteneder, "Adobe Flex 3 - Engaging User Frontends"</strong>
@@ -442,7 +442,7 @@
 * <strong>Markus Struberg, "The Git SCM - a little bit of git"</strong>
 
 ### Meetup: [2008-05-26]()
-* <strong>OurMovies - Yet another MovieManager</strong> [[Slides](https://github.com/JavaVienna/2008-05-26_ourmovies_yet_another_moviemanager/blob/main/JSUG-Slides-OurMovies-Christoph_Pickl.pdf)]
+* <strong>OurMovies - Yet another MovieManager</strong> [[Slides](https://github.com/JavaVienna/2008-05-26_ourmovies_yet_another_moviemanager/blob/main/JSUG-Slides-OurMovies-Christoph_P.pdf)]
 
 ## 2007
 
