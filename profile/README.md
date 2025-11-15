@@ -410,6 +410,114 @@
 ### Meetup: [2008-05-26]()
 * <strong>OurMovies - Yet another MovieManager</strong> [[Slides](https://github.com/JavaVienna/2008-05-26_ourmovies_yet_another_moviemanager/blob/main/JSUG-Slides-OurMovies-Christoph_Pickl.pdf)]
 
+## 2007
+
+*No meetings recorded in 2007*
+
+## 2006
+
+*No meetings recorded in 2006*
+
+## 2005
+
+### JUGAT Meetup: [2005-11-30]()
+* <strong>Peter Lieber - "SparxSystems Enterprise Architect"</strong>
+* <strong>Jürgen Höller - "Das Spring-Framework"</strong>
+
+### JUGAT Meetup: [2005-06-21]()
+* <strong>DI Michael Schaffer - "Model Driven Architecture using OptimalJ"</strong>
+* <strong>Manfred Geiler, Martin Marinschek, Thomas Spiegl - "Apache myFaces - Open Source Java Server Faces"</strong>
+
+### JUGAT Meetup: [2005-03-30]()
+* <strong>Rainer Dollinger, "Lucene - ein flexibles Framework für Volltextsuche"</strong>
+* <strong>Ing. Paul Palaszewski, "Java und Performance? Ja, das geht!"</strong>
+
+## 2004
+
+### JUGAT Meetup: [2004-05-12]()
+* <strong>Dipl.-Ing. Roland Triendl, "Location aware communication services for mobile devices"</strong>
+* <strong>Horst Scheruga, "The art of logging - introduction to Log4J"</strong>
+
+### JUGAT Meetup: [2004-03-02]()
+* <strong>Ing. Alfred Madl, "JOnas - The Java Open Application Server"</strong>
+* <strong>Gerald Bauer, "Grooooovy Babe - Jazzing Up Plain Old Java"</strong>
+
+## 2003
+
+### JUGAT Meetup: [2003-11-10]()
+* <strong>DI Gernot Koller, Manfred Weigl - "Apache Cocoon and RSF"</strong>
+* <strong>Martin Pöschl - "Torque and OJB, The Apache Persistence Framework"</strong>
+
+### JUGAT Meetup: [2003-07-09]()
+* <strong>Patrick Peck - "Java & .NET Interoperability"</strong>
+* <strong>DI Roland Triendl - "Mobiles Java - Status und Ausblick"</strong>
+
+### JUGAT Meetup: [2003-05-14]()
+* <strong>Ing. Paul Palaszewski (Hons) B.Sc. - "Agile Software Entwicklungsmethoden"</strong>
+* <strong>DI Siegfried Göschl - "Canoo Webtest"</strong>
+
+### JUGAT Meetup: [2003-03-13]()
+* <strong>Ing. Alfred Madl - "Enhydra Octopus"</strong>
+* <strong>Gerald Bauer - "Jython and Jelly - Scripting Power for Java and XML"</strong>
+
+### JUGAT Meetup: [2003-02-03]()
+* <strong>Lukas Mroz - "Processing Gigabytes in Seconds - Memory and Performance Issues for 2D/3D Image Processing with Java"</strong>
+
+## 2002
+
+### JUGAT Meetup: [2002-11-20]()
+* <strong>Mag. Klaus Kreuzwieser, Franz Luef - "Financial Fusion Java Message Broker - Das ultimative Messaging"</strong>
+* <strong>Gerald Bauer - "Spice Up XML UIs With SVG (Scalable Vector Graphics): Create High-End 2D Graphics in XML"</strong>
+
+### JUGAT Meetup: [2002-10-17]()
+* <strong>Ing. Van Hai Rafael Scheiflinger - "Java@SAP"</strong>
+* <strong>Philipp Gühring - "XSLT, dokumentorientiertes Arbeiten"</strong>
+
+### JUGAT Meetup: [2002-09-19]()
+* <strong>Markus Aistleitner & DI Christian Müller - "e-Solution Applikations Framework in Java"</strong>
+* <strong>DI Siegfried Göschl - "The Stairway to MAVEN"</strong>
+
+### JUGAT Meetup: [2002-06-26]()
+* <strong>DI Alexander Forst-Rakoczy - "CORSO - Space Based Computing with Java"</strong>
+* <strong>DI Bernd Wender - "Velocity in der Anwendungsentwicklung"</strong>
+
+### JUGAT Meetup: [2002-05-22]()
+* <strong>Christian Weber - "Adaptive J2EE Application Architectures - Performance Optimization Using OptimalJ"</strong>
+* <strong>DI Jutta Eckstein, Nicolai Josuttis - "eXtreme Programming - Eine moderne agile Softwareentwicklung"</strong>
+
+### JUGAT Meetup: [2002-04-22]()
+* <strong>Roman Waitz - "The Java 2 Micro Edition"</strong>
+
+### JUGAT Meetup: [2002-03-20]()
+* <strong>Christian Weber, Kurt Aigner - "J2EE development and testing environment OptimalJ/NuMega Dev Partner"</strong>
+
+### JUGAT Meetup: [2002-02-19]()
+* <strong>Erich Gstrein - "Erfahrungen mit Poseidon UML"</strong>
+
+### JUGAT Meetup: [2002-01-15]()
+* <strong>Mag Gerald Bauer - "WebStart"</strong>
+
+## 2001
+
+### JUGAT Meetup: [2001-11-20]()
+* <strong>Dr. Gerhard Weishaar "Testautomatisierung und Extensibility für Java"</strong>
+* <strong>DI Roland Triendl - "CVS in the Enterprise"</strong>
+
+### JUGAT Meetup: [2001-10-17]()
+* <strong>DI Christian Liska, "Java Media Framework & Java 3D"</strong>
+
+### JUGAT Meetup: [2001-09-18]()
+* <strong>Alfred Madl - "JET - ein Java native Compiler für Win32"</strong>
+
+### JUGAT Meetup: [2001-07-18]()
+* <strong>DI Richard Geyer & DI Martin Kahr - "EJB for Rookies"</strong>
+
+### JUGAT Meetup: [2001-05-06]()
+* <strong>Bernhard Herzog - "C# and .NET vs. Java and J2EE"</strong>
+
+### JUGAT Meetup: [2001-04-12]()
+* <strong>DI Siegfried Goeschl - "Testen verteilter Anwendungen"</strong>
+
 
 <!--
 
