@@ -362,6 +362,54 @@
 * <strong>Apache Tapestry 5</strong>
 * <strong>Java Server Monitoring</strong>
 
+## 2009
+
+### Meetup: [2009-10-05]()
+* <strong>Vorbereitungen</strong> [[Slides](https://github.com/JavaVienna/2009-10-05_vorbereitungen/blob/main/Jsug_meeting19_idea_keyboard_shortcuts.pdf)]
+
+### Meetup: [2009-03-02]()
+* <strong>Cocoon 3 - Student projects</strong> [[Slides](https://github.com/JavaVienna/2009-03-02_cocoon_3_student_projects/blob/main/JSUG-Slides%20Cocoon3%20Student%20Project%20Ideas-Poetz%20Dolg.pdf)]
+* <strong>Cocoon Project - StAX and the pipeline</strong> - Andreas Piber [[Slides](https://github.com/JavaVienna/2009-03-02_cocoon_project_stax_and_pipeline/blob/main/JSUG-Slides%20Cocoon%20Project-Andreas%20Pieber.pdf)]
+* <strong>JDO Extensions for the XML Code Generator</strong> - Lukas Lang [[Slides](https://github.com/JavaVienna/2009-03-02_jdo_extensions_xml_code_generator/blob/main/JSUG-Slides%20Castor%20Project-Lukas%20Lang.pdf)]
+* <strong>Accessing Web Sites as Web Services</strong> - Andreas Hubmer [[Slides](https://github.com/JavaVienna/2009-03-02_accessing_web_sites_as_web_services/blob/main/JSUG-Slides%20ServiceEnabler-Andreas%20Hubmer.pdf)]
+* <strong>Hoppla - Small and Home Office Backup and Migration</strong> - Florian Motlik [[Slides](https://github.com/JavaVienna/2009-03-02_hoppla_small_and_home_office_backup_and_migration/blob/main/JSUG-Slides%20Hoppla-Motlik%20Petrov.pdf)]
+* <strong>TIM aka EPROG2 with Ruby on Rails</strong> [[Slides](https://github.com/JavaVienna/2009-03-02_tim_aka_eprog2_ruby_rails/blob/main/JSUG-Slides%20TIM%20aka%20EPROG2-Martin%20Schuerrer.pdf)]
+* <strong>The Sound of Shopping</strong> - Christoph Pickl [[Slides](https://github.com/JavaVienna/2009-03-02_sound_of_shopping/blob/main/JSUG-Slides%20Sound%20of%20Shopping-Christoph%20Pickl.pdf)]
+
+### Meetup: [2009-02-23]()
+* <strong>TeX, LaTeX und der ganze Rest</strong> [[Slides](https://github.com/JavaVienna/2009-02-23_tex_latex_und_der_ganze_rest/blob/main/JSUG-Tex%20Latex%20und%20der%20Rest-Norbert%20Preining.pdf)]
+* <strong>LaTeX Quickintro</strong> - Christoph Pickl [[Slides](https://github.com/JavaVienna/2009-02-23_latex_quickintro/blob/main/JSUG-TexDay%20Introduction-Christoph%20Pickl.pdf)]
+* <strong>Layouting with the memoir class</strong> - Martin Schürrer [[Slides](https://github.com/JavaVienna/2009-02-23_layouting_memoir_class/blob/main/JSUG-Slides%20Memoir-Martin%20Schuerrer.pdf)]
+* <strong>Producing HTML and Slides with LaTeX</strong> [[Slides](https://github.com/JavaVienna/2009-02-23_producing_html_and_slides_latex/blob/main/JSUG-TexDay-Christoph%20Pickl.pdf)] [[Code](https://github.com/JavaVienna/2009-02-23_producing_html_and_slides_latex/blob/main/JSUG-TexDay%20Beamer%20Sources-Christoph%20Pickl.zip)]
+
+### Meetup: [2009-02-02]()
+* <strong>Event Driven Architectures with Open Source Frameworks</strong> [[Slides](https://github.com/JavaVienna/2009-02-02_event_driven_architectures_open_source_frameworks/blob/main/JSUG-Slides%20EDA-Alexander%20Schatten.pdf)]
+* <strong>Google Web Toolkit</strong> - Hans Sowa [[Slides](https://github.com/JavaVienna/2009-02-02_google_web_toolkit/blob/main/JSUG-Slides%20GWT-Hans%20Sowa.pdf)]
+
+### Meetup: [2009-01-12]()
+* <strong>RESTful Webservices with JSR 311</strong> - Florian Motlik [[Slides](https://github.com/JavaVienna/2009-01-12_restful_webservices_jsr_311/blob/main/JSUG-Slides-RESTful_WebServices-Florian_Motlik.pdf)]
+
+## 2008
+
+### Meetup: [2008-12-15]()
+* <strong>QtJambi - Java bindings for the mighty QT-framework</strong> [[Slides](https://github.com/JavaVienna/2008-12-15_qtjambi_java_bindings_mighty_qt_framework/blob/main/JSUG-Slides-QtJambi-Jan%20Zarnikov.pdf)]
+
+### Meetup: [2008-10-13]()
+* <strong>Inversion of Control</strong> [[Slides](https://github.com/JavaVienna/2008-10-13_inversion_of_control/blob/main/JSUG-Inversion%20of%20Control-Florian%20Motlik.pdf)]
+* <strong>Guice</strong> [[Slides](https://github.com/JavaVienna/2008-10-13_guice/blob/main/JSUG-Slides-Google%20Guice-Jan%20Zarnikov.pdf)] [[Code](https://github.com/JavaVienna/2008-10-13_guice/blob/main/Jsug-guice-demo-project.zip)]
+* <strong>Springframework</strong> [[Slides](https://github.com/JavaVienna/2008-10-13_springframework/blob/main/JSUG-Slides_Spring_Christoph_Pickl.pdf)]
+
+### Meetup: [2008-07-07]()
+* <strong>Maven Reloaded</strong> [[Slides](https://github.com/JavaVienna/2008-07-07_maven_reloaded/blob/main/JSUG-Slides-Maven-Michael_Greifeneder.pdf)]
+* <strong>Scala Lightning Talk</strong> [[Slides](https://github.com/JavaVienna/2008-07-07_scala_lightning_talk/blob/main/JSUG-Slides-ScalaLightning-Michael_Greifeneder.pdf)]
+
+### Meetup: [2008-06-16]()
+* <strong>OSGi - The Next Generation Java Service Platform</strong> [[Slides](https://github.com/JavaVienna/2008-06-16_osgi_next_generation_java_service_platform/blob/main/JSUG-Slides-OSGi-Michael_Greifeneder.pdf)]
+* <strong>TechTips #1</strong> [[Slides](https://github.com/JavaVienna/2008-06-16_techtips_1/blob/main/JSUG-Slides_TechTips1_Christoph_Pickl.pdf)]
+
+### Meetup: [2008-05-26]()
+* <strong>OurMovies - Yet another MovieManager</strong> [[Slides](https://github.com/JavaVienna/2008-05-26_ourmovies_yet_another_moviemanager/blob/main/JSUG-Slides-OurMovies-Christoph_Pickl.pdf)]
+
 
 <!--
 
