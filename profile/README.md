@@ -311,7 +311,7 @@
 * <strong>Spring Boot under the hood</strong> - [Nicolas Frankel](https://github.com/nfrankel) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 ### January Meetup: [2017-01-16](https://www.meetup.com/java-vienna/events/236378485/)
-* <strong>Model Driven Architecture & Design @ ING-DiBa</strong>
+* <strong>Model Driven Architecture & Design @ ING-DiBa</strong> - [Markus Demetz](https://github.com/markusdemetz)
 
 ## 2016
 
