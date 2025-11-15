@@ -316,11 +316,11 @@
 ## 2016
 
 ### December Meetup: [2016-12-05](https://www.meetup.com/java-vienna/events/235412579/)
-* <strong>Microservices with the PlayFramework</strong>
-* <strong>Tools of the Trade</strong>
+* <strong>Microservices with the PlayFramework</strong> - [Dominik Dorn](https://github.com/domdorn)
+* <strong>Tools of the Trade</strong> - [Dominik Dorn](https://github.com/domdorn)
 
 ### November Meetup: [2016-11-14](https://www.meetup.com/java-vienna/events/234641121/)
-* <strong>Blaze-Persistence for JPA </strong>
+* <strong>Blaze-Persistence for JPA</strong> - [Christian Beikov](https://github.com/beikov), Moritz Becker
 * <strong>Case Study: Spring Framework at Craftwork</strong>
 
 ### October Meetup: [2016-10-10](https://www.meetup.com/java-vienna/events/234380365/)
@@ -328,8 +328,8 @@
 * <strong>JUnit 5</strong>
 
 ### April Meetup: [2016-04-18](https://www.meetup.com/java-vienna/events/229195719/)
-* <strong>What's new in Play Framework 2.5</strong>
-* <strong>Lagom - the microservice framework</strong>
+* <strong>What's new in Play Framework 2.5</strong> - [Dominik Dorn](https://github.com/domdorn)
+* <strong>Lagom - the microservice framework</strong> - [Dominik Dorn](https://github.com/domdorn)
 
 ### March Meetup: [2016-03-14](https://www.meetup.com/java-vienna/events/229020934/)
 * <strong>Redis</strong>
@@ -342,25 +342,26 @@
 * <strong>PerfCake - Performance testing [Martin Večeřa](https://github.com/marvec) [Pavel Macík](https://github.com/pmacik) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]</strong>
 
 ### October Meetup: [2015-10-12](https://www.meetup.com/java-vienna/events/225365483/)
-* <strong>Se7en deadly deployment sins</strong>
-* <strong>Smart Cloud Load Balancing</strong>
+* <strong>Se7en deadly deployment sins</strong> - [Philipp Krenn](https://github.com/xeraa)
+* <strong>Smart load balancing in the cloud with OptaPlanner</strong> - Lukáš Petrovický, Red Hat Czech
 
 ### July Meetup: [2015-07-06](https://www.meetup.com/java-vienna/events/221724485/)
-* <strong>AWS Deployment Mechanics [Workshop]</strong>
+* <strong>AWS Deployment Mechanics [Workshop]</strong> - [Philipp Krenn](https://github.com/xeraa)
 
 ### June Meetup: [2015-06-08](https://www.meetup.com/java-vienna/events/221724478/)
-* <strong>Spring Boot</strong>
-* <strong>One VM to rule them all (GraalVM)</strong>
+* <strong>How far do you get with Spring Boot in one hour?</strong> - Christian Köberl
+* <strong>One VM to rule them all (GraalVM)</strong> - Matthias Grimmer
 
 ### May Meetup: [2015-05-11](https://www.meetup.com/java-vienna/events/221724475/) (JSUG #70)
-* <strong>Playframework 2.4, Akka-Persistence</strong>
+* <strong>Playframework 2.4</strong> - [Dominik Dorn](https://github.com/domdorn)
+* <strong>Akka-Persistence</strong> - [Dominik Dorn](https://github.com/domdorn)
 
 ### April Meetup: [2015-04-20](https://www.meetup.com/java-vienna/events/221390472/) (JSUG 69)
-* <strong>Event Sourcing & CQRS</strong>
+* <strong>Event Sourcing & CQRS</strong> - [Dominik Dorn](https://github.com/domdorn)
 
 ### March Meetup: [2015-03-30](https://www.meetup.com/java-vienna/events/221237284/) (JSUG 68)
-* <strong>Apache Tapestry 5</strong>
-* <strong>Java Server Monitoring</strong>
+* <strong>Apache Tapestry 5</strong> - Adam Zielinski
+* <strong>Java Server Monitoring: Tipps and Tricks</strong> - [Siegfried Göschl](https://github.com/sgoeschl)
 
 ## 2011
 
