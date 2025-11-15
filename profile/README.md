@@ -362,10 +362,35 @@
 * <strong>Apache Tapestry 5</strong>
 * <strong>Java Server Monitoring</strong>
 
+## 2011
+
+### JUGAT Meetup: [2011-01-26]()
+* <strong>Bernhard Wallisch - "ANTLR - the compiler compiler"</strong>
+* <strong>Arno Schmidmeier - "Anwendungsszenarien für AOP"</strong>
+
+## 2010
+
+### JUGAT Meetup: [2010-11-17]()
+* <strong>Mihai Radulescu - "Knowledge In a Wiki"</strong>
+* <strong>Siegfried Goeschl - "Introducing Apache Commons Exec and Commons Email"</strong>
+
+### JUGAT Meetup: [2010-05-20]()
+* <strong>Roland Hoermann, "Business Applikationen schnell entwickeln fuer das JVx Framework Live!"</strong>
+* <strong>Gerald Bauer, "(J)Ruby in der Praxis: Erstellung von PDF Dokumenten aus HTML Vorlagen mit Ruby Skript"</strong>
+
+### JUGAT Meetup: [2010-03-03]()
+* <strong>Robert Baumgartner and Lixto Development Team, "Lixto Online Market Intelligence"</strong>
+* <strong>Gerhard Hipfinger, "Apache Wicket"</strong>
+* <strong>Nachtrag</strong>
+
 ## 2009
 
 ### Meetup: [2009-10-05]()
 * <strong>Vorbereitungen</strong> [[Slides](https://github.com/JavaVienna/2009-10-05_vorbereitungen/blob/main/Jsug_meeting19_idea_keyboard_shortcuts.pdf)]
+
+### JUGAT Meetup: [2009-08-12]()
+* <strong>Sergey Mikhanov, "Introducing JAIN SLEE"</strong>
+* <strong>Mark Struberg, "JSR-299 - Contexts and Dependency Injection"</strong>
 
 ### Meetup: [2009-03-02]()
 * <strong>Cocoon 3 - Student projects</strong> [[Slides](https://github.com/JavaVienna/2009-03-02_cocoon_3_student_projects/blob/main/JSUG-Slides%20Cocoon3%20Student%20Project%20Ideas-Poetz%20Dolg.pdf)]
@@ -385,6 +410,10 @@
 ### Meetup: [2009-02-02]()
 * <strong>Event Driven Architectures with Open Source Frameworks</strong> [[Slides](https://github.com/JavaVienna/2009-02-02_event_driven_architectures_open_source_frameworks/blob/main/JSUG-Slides%20EDA-Alexander%20Schatten.pdf)]
 * <strong>Google Web Toolkit</strong> - Hans Sowa [[Slides](https://github.com/JavaVienna/2009-02-02_google_web_toolkit/blob/main/JSUG-Slides%20GWT-Hans%20Sowa.pdf)]
+
+### JUGAT Meetup: [2009-01-29]()
+* <strong>Tony Fricko, "Widgetization of the web - and how to take widgets safely into the enterprise"</strong>
+* <strong>Michael Chytracek, "SAP as Java Technology Provider?!"</strong>
 
 ### Meetup: [2009-01-12]()
 * <strong>RESTful Webservices with JSR 311</strong> - Florian Motlik [[Slides](https://github.com/JavaVienna/2009-01-12_restful_webservices_jsr_311/blob/main/JSUG-Slides-RESTful_WebServices-Florian_Motlik.pdf)]
@@ -406,6 +435,11 @@
 ### Meetup: [2008-06-16]()
 * <strong>OSGi - The Next Generation Java Service Platform</strong> [[Slides](https://github.com/JavaVienna/2008-06-16_osgi_next_generation_java_service_platform/blob/main/JSUG-Slides-OSGi-Michael_Greifeneder.pdf)]
 * <strong>TechTips #1</strong> [[Slides](https://github.com/JavaVienna/2008-06-16_techtips_1/blob/main/JSUG-Slides_TechTips1_Christoph_Pickl.pdf)]
+
+### Meetup: [2008-05-27]()
+* <strong>Christoph Atteneder, "Adobe Flex 3 - Engaging User Frontends"</strong>
+* <strong>Dieter Hovorka, "Next generation of RIA Technologies"</strong>
+* <strong>Markus Struberg, "The Git SCM - a little bit of git"</strong>
 
 ### Meetup: [2008-05-26]()
 * <strong>OurMovies - Yet another MovieManager</strong> [[Slides](https://github.com/JavaVienna/2008-05-26_ourmovies_yet_another_moviemanager/blob/main/JSUG-Slides-OurMovies-Christoph_Pickl.pdf)]
