@@ -4,7 +4,7 @@
 
 ### February Meetup: [2026-02-16]()
 * <strong>JobRunR - Easy Java Job Scheduling</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-02-16_jobrunr_easy_java_job_scheduling/blob/main/presentation.pdf)]
-* * <strong>Fullstack in a native.image</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-02-16_fullstack_in_a_bin/blob/main/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-02-16_fullstack_in_a_bin/)]
+* <strong>Fullstack in a native.image</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-02-16_fullstack_in_a_bin/blob/main/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-02-16_fullstack_in_a_bin/)]
 
 
 ### January Meetup: [2026-01-19](https://www.meetup.com/java-vienna/events/310835186/)
