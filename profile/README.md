@@ -2,6 +2,11 @@
 
 ## 2026
 
+### February Meetup: [2026-02-16]()
+* <strong>JobRunR - Easy Java Job Scheduling</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-02-16_jobrunr_easy_java_job_scheduling/blob/main/presentation.pdf)]
+* * <strong>Fullstack in a native.image</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-02-16_fullstack_in_a_bin/blob/main/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-02-16_fullstack_in_a_bin/)]
+
+
 ### January Meetup: [2026-01-19](https://www.meetup.com/java-vienna/events/310835186/)
 * <strong>Multithreading under the lens</strong> - [Marco Sussitz TODO](#TODO) [Christian Lutnik TODO](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)] [[Video](https://videos.ijug.eu/w/vdtC5amAoMSz2qDpcDKx9e)]
 * <strong>Own Your Domain Before It Owns You</strong> - [Philipp Seifert-Kehrer TODO](#TODO) [Leo Bowen Wang TODO](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)] [[Video](https://videos.ijug.eu/w/eabLtKQEfZKM2iqESUA5J8)]
