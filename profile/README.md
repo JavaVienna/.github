@@ -2,6 +2,10 @@
 
 ## 2026
 
+### March Meetup: [2026-03-09]()
+* <strong>Build your own lock</strong> - [Matthias Langer #TODO](#TODO) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
+* <strong>AI Driven Development with JakartaEE</strong> - [Ondro Mihályi](https://github.com/OndroMih) [[Slides](https://github.com/JavaVienna/2026-03-09_ai-development-jakartaEE/blob/main/slides.pdf)] [[Code](https://github.com/JavaVienna/2026-03-09_ai-development-jakartaEE/)]
+
 ### February Meetup: [2026-02-16]()
 * <strong>JobRunR - Easy Java Job Scheduling</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-02-16_jobrunr_easy_java_job_scheduling/blob/main/presentation.pdf)]
 * <strong>Fullstack in a native.image</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-02-16_fullstack_in_a_bin/blob/main/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-02-16_fullstack_in_a_bin/)]
