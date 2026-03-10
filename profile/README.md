@@ -3,7 +3,7 @@
 ## 2026
 
 ### March Meetup: [2026-03-09]()
-* <strong>Build your own lock</strong> - [Matthias Langer #TODO](#TODO) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
+* <strong>Build your own lock</strong> - [Matthias Langer](https://github.com/mlangc) [[Slides #TODO](#TODO)] [[Code](https://github.com/JavaVienna/2026-03-09_build_your_own_lock)]
 * <strong>AI Driven Development with JakartaEE</strong> - [Ondro Mihályi](https://github.com/OndroMih) [[Slides](https://github.com/JavaVienna/2026-03-09_ai-development-jakartaEE/blob/main/slides.pdf)] [[Code](https://github.com/JavaVienna/2026-03-09_ai-development-jakartaEE/)]
 
 ### February Meetup: [2026-02-16]()
