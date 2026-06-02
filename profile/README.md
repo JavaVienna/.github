@@ -2,6 +2,22 @@
 
 ## 2026
 
+### June Meetup #2: [2026-06-15](https://www.meetup.com/java-vienna/events/315009419/)
+* <strong>Unbreakable by Design: The Secret Tech of Antifragile Software</strong> - [Iryna Dohndorf](https://github.com/IDohndorf) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
+* <strong>Heaps of Trouble -- Debugging Java OOM</strong> - [Robert C Kahlert TODO](#TODO) [[Slides #TODO](#TODO)]
+
+### June Meetup #1: [2026-06-01](https://www.meetup.com/java-vienna/events/314639727/)
+* <strong>From Reactive Streams, through Virtual Threads, to Flows</strong> - [Adam Warski](https://github.com/adamw) [[Slides #Todo](#TODO)]
+* <strong>Armeria: The Microservices Framework You Haven't Tried Yet</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-06-01_armeria_microservices_framework/blob/main/slides/presentation.pdf)]
+
+
+### April Meetup #3: [2026-04-29](https://www.meetup.com/java-vienna/events/314276964/)
+* <strong>Centralising and automating your API contracts using a schema registry</strong> - [Marian Varga](https://github.com/marian-dragon) [[Slides #TODO](#TODO)]
+* <strong>OpenJDK, the JCP and JUGs: contributing to Java to become a beyond senior expert</strong> - [Bruno Souza](https://github.com/brjavaman) [[Slides #TODO](#TODO)]
+
+### April Meetup #2: [2026-04-15](https://www.meetup.com/java-vienna/events/314035128/)
+* <strong>Domain-Driven Transformation—Modularizing and Modernizing Legacy Software</strong> - [Henning Schwentner](https://github.com/hschwentner) [[Slides #TODO](#TODO)]
+
 ### April Meetup #1: [2026-04-07](https://www.meetup.com/java-vienna/events/313196243/)
 * <strong>Here we go again: Java 26</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-04-07_java26/blob/main/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-04-07_java26)]
 * <strong>webswing & webforj</strong> - [Stephan Wald](https://github.com/StephanWald) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
