@@ -2,6 +2,17 @@
 
 ## 2026
 
+### June Meetup #3: [2026-06-29](https://www.meetup.com/java-vienna/events/314639734/)
+* <strong>living immutable: working with Java Records the painless way</strong> - [Georgios Angelopoulos](https://github.com/geoangelotti) [[Slides](https://github.com/JavaVienna/2026-06-29_living_immutable/blob/main/immutability%20by%20Design.pdf)]
+* <strong>Zero-Dependency Java 25+ AI Business Agents: Running locally with zsmith and LightMetal</strong> - [Adam Bien](https://github.com/AdamBien) [[Slides](https://github.com/JavaVienna/2026-06-29_ai_agents_lightmetal_zsmith/blob/master/zsmith-on-lightmetal.pdf)]
+  * [FFM: Get Hostname with Foreign Function and Memory Interface](https://github.com/JavaVienna/2026-06-29_ai_agents_lightmetal_zsmith/blob/master/ffm-get-hostname/App.java)
+  * [Quarkus Microprofile BCE Example](https://github.com/JavaVienna/2026-06-29_ai_agents_lightmetal_zsmith/tree/master/quarkus-microprofile)
+  * [Lightmetal - AI Inference using llama.cpp on Mac with FFM](https://github.com/JavaVienna/2026-06-29_lightmetal)
+  * [ZSmith - Zero Deps Agent Smith](https://github.com/JavaVienna/2026-06-29_zsmith)
+  * [AIRails](https://github.com/JavaVienna/2026-06-29_airails)
+  * [zb - zero dependencies java build tool](https://github.com/JavaVienna/2026-06-29_zb)
+
+
 ### June Meetup #2: [2026-06-15](https://www.meetup.com/java-vienna/events/315009419/)
 * <strong>Unbreakable by Design: The Secret Tech of Antifragile Software</strong> - [Iryna Dohndorf](https://github.com/IDohndorf) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
 * <strong>Heaps of Trouble -- Debugging Java OOM</strong> - [Robert C Kahlert TODO](#TODO) [[Slides #TODO](#TODO)]
