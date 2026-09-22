@@ -58,8 +58,8 @@
 
 
 ### November Meetup: [2025-11-17](https://www.meetup.com/java-vienna/events/310835005/)
-* <strong>Faster JVM Applications Without Changing Any Code</strong> [Simon Ritter](https://github.com/speakjava) [[Slides TODO](#TODO)] [[Video TODO](#TODO)]
-* <strong>Pairing With LLM Agents To Write Great Java Code Fast</strong> [Adam Bien](https://github.com/adambien/)
+* <strong>Faster JVM Applications Without Changing Any Code</strong> - [Simon Ritter](https://github.com/speakjava) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/k11KFUM5RHNSScHijJpCW9)]
+* <strong>Pairing With LLM Agents To Write Great Java Code Fast</strong> - [Adam Bien](https://github.com/adambien/)
 
 ### October Meetup: [2025-10-20](https://www.meetup.com/java-vienna/events/310834925/)
 * <strong>Java 25</strong> - [Mohsen Ahmadian](https://github.com/mohsenetc) [[Slides](https://github.com/JavaVienna/2025-10-20_java_25/blob/main/Java25-clean.pdf)] [[Code](https://github.com/JavaVienna/2025-10-20_java_25)]
