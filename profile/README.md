@@ -22,9 +22,8 @@
 * <strong>Heaps of Trouble -- Debugging Java OOM</strong> - [Robert C Kahlert TODO](#TODO) [[Slides #TODO](#TODO)]
 
 ### June Meetup #1: [2026-06-01](https://www.meetup.com/java-vienna/events/314639727/)
-* <strong>From Reactive Streams, through Virtual Threads, to Flows</strong> - [Adam Warski](https://github.com/adamw) [[Slides #Todo](#TODO)]
-* <strong>Armeria: The Microservices Framework You Haven't Tried Yet</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-06-01_armeria_microservices_framework/blob/main/slides/presentation.pdf)]
-
+* <strong>From Reactive Streams, through Virtual Threads, to Flows</strong> - [Adam Warski](https://github.com/adamw) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/u7KSm8r82G53evKLZwMap9)]
+* <strong>Armeria: The Microservices Framework You Haven't Tried Yet</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-06-01_armeria_microservices_framework/blob/main/slides/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-06-01_armeria_microservices_framework)] [[Video](https://videos.ijug.eu/w/rJkCR85Vk6yd3Jh2W6q36C)]
 
 ### April Meetup #3: [2026-04-29](https://www.meetup.com/java-vienna/events/314276964/)
 * <strong>Centralising and automating your API contracts using a schema registry</strong> - [Marian Varga](https://github.com/marian-dragon) [[Slides #TODO](#TODO)]
