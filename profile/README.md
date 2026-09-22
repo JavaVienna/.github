@@ -47,7 +47,7 @@
 
 
 ### January Meetup: [2026-01-19](https://www.meetup.com/java-vienna/events/310835186/)
-* <strong>Multithreading under the lens</strong> - [Marco Sussitz TODO](#TODO) [Christian Lutnik TODO](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)] [[Video](https://videos.ijug.eu/w/vdtC5amAoMSz2qDpcDKx9e)]
+* <strong>Multithreading under the lens</strong> - [Marco Sussitz](https://github.com/ReneThu) [Christian Lutnik TODO](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)] [[Video](https://videos.ijug.eu/w/vdtC5amAoMSz2qDpcDKx9e)]
 * <strong>Own Your Domain Before It Owns You</strong> - [Philipp Seifert-Kehrer TODO](#TODO) [Leo Bowen Wang TODO](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)] [[Video](https://videos.ijug.eu/w/eabLtKQEfZKM2iqESUA5J8)]
 
 ## 2025
