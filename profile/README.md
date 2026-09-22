@@ -110,9 +110,8 @@
 * <strong>Evil Performance Testing</strong> - [Siegfried Göschl](https://github.com/sgoeschl) [[Slides](https://github.com/JavaVienna/2025-02-24_evil_performance_testing/blob/master/slides/evil-performance-testing.pdf)] [[Code](https://github.com/JavaVienna/2025-02-24_evil_performance_testing/)] [[Code Sample App](https://github.com/JavaVienna/2025-02-24_evil_performance_testing_springboot-httpbin)] [[Video](https://videos.ijug.eu/w/jqYhVK6R6qFihHmj6ev9HX)]
 
 ### January Meetup: [2025-01-27](https://www.meetup.com/java-vienna/events/305515073/)
-* <strong>How to optimize JPA: The SQL Police</strong> - [Philipp Seifert-Kehrer](https://github.com/original-flipster69) [[Slides](https://github.com/JavaVienna/2025-01-27_sql-police/blob/master/2025-01-27_Java-meetup-Philipp_sql-police.pdf)] [[Code](https://github.com/JavaVienna/2025-01-27_sql-police)] [[Article](https://originalflipster.com/rants/marie-kondo-sql-queries/)]
-* <strong>The power of Graal: Using JavaScript, Python and WebAssembly in your Java Apps</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2025-01-27_graalvm_polyglot/blob/main/presentation/presentation.pdf)] [[Code](https://github.com/JavaVienna/2025-01-27_graalvm_polyglot)] 
-
+* <strong>How to optimize JPA: The SQL Police</strong> - [Philipp Seifert-Kehrer](https://github.com/original-flipster69) [[Slides](https://github.com/JavaVienna/2025-01-27_sql-police/blob/master/2025-01-27_Java-meetup-Philipp_sql-police.pdf)] [[Code](https://github.com/JavaVienna/2025-01-27_sql-police)] [[Article](https://originalflipster.com/rants/marie-kondo-sql-queries/)] [[Video](https://videos.ijug.eu/w/tJsjfuDtq1e7LCfZ8VRzXR)]
+* <strong>The power of Graal: Using JavaScript, Python and WebAssembly in your Java Apps</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2025-01-27_graalvm_polyglot/blob/main/presentation/presentation.pdf)] [[Code](https://github.com/JavaVienna/2025-01-27_graalvm_polyglot)] [[Video](https://videos.ijug.eu/w/fupqAfKSQH3AP2Bu9X2oEf)]
 
 ## 2024
 
