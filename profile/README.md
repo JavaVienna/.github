@@ -34,8 +34,8 @@
 * <strong>Domain-Driven Transformation—Modularizing and Modernizing Legacy Software</strong> - [Henning Schwentner](https://github.com/hschwentner) [[Slides #TODO](#TODO)]
 
 ### April Meetup #1: [2026-04-07](https://www.meetup.com/java-vienna/events/313196243/)
-* <strong>Here we go again: Java 26</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-04-07_java26/blob/main/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-04-07_java26)]
-* <strong>webswing & webforj</strong> - [Stephan Wald](https://github.com/StephanWald) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
+* <strong>Here we go again: Java 26</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-04-07_java26/blob/main/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-04-07_java26)] [[Video (no audio)](https://videos.ijug.eu/w/nKvgVUgpEC8Reo3Zpv5Ztk)]
+* <strong>webswing & webforj</strong> - [Stephan Wald](https://github.com/StephanWald) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video (no audio)](https://videos.ijug.eu/w/b4uRFyxbKJMku9btWaDLk8)]
 
 ### March Meetup: [2026-03-09](https://www.meetup.com/java-vienna/events/313237679/)
 * <strong>Build your own lock</strong> - [Matthias Langer](https://github.com/mlangc) [[Slides](https://github.com/JavaVienna/2026-03-09_build_your_own_lock/blob/build-your-own-lock-from-scratch/slides.pdf)] [[Code](https://github.com/JavaVienna/2026-03-09_build_your_own_lock)]
