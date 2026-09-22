@@ -2,6 +2,10 @@
 
 ## 2026
 
+### September Meetup: [2026-09-21](https://www.meetup.com/java-vienna/events/316166116/)
+* <strong>Debugging Class Loading with GDB</strong> - [Marco Sussitz](https://github.com/ReneThu) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
+* <strong>How to Become a Better Software Engineer with AI</strong> - [Elias Erkinger](https://github.com/Elipkm) [[Slides](https://github.com/JavaVienna/2026-09-21_better_software_engineer_with_ai/blob/main/presentation.pdf)]
+
 ### June Meetup #3: [2026-06-29](https://www.meetup.com/java-vienna/events/314639734/)
 * <strong>living immutable: working with Java Records the painless way</strong> - [Georgios Angelopoulos](https://github.com/geoangelotti) [[Slides](https://github.com/JavaVienna/2026-06-29_living_immutable/blob/main/immutability%20by%20Design.pdf)]
 * <strong>Zero-Dependency Java 25+ AI Business Agents: Running locally with zsmith and LightMetal</strong> - [Adam Bien](https://github.com/AdamBien) [[Slides](https://github.com/JavaVienna/2026-06-29_ai_agents_lightmetal_zsmith/blob/master/zsmith-on-lightmetal.pdf)]
