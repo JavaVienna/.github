@@ -47,7 +47,7 @@
 
 
 ### January Meetup: [2026-01-19](https://www.meetup.com/java-vienna/events/310835186/)
-* <strong>Multithreading under the lens</strong> - [Marco Sussitz](https://github.com/ReneThu) [Christian Lutnik](https://github.com/chrfwow) [[Slides](https://github.com/JavaVienna/2026-01-19_multithreading_under_the_lens/blob/main/presentation/vmLens/slidev/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-01-19_multithreading_under_the_lens)] [[Video](https://videos.ijug.eu/w/vdtC5amAoMSz2qDpcDKx9e)]
+* <strong>Multithreading under the lens</strong> - [Marco Sussitz](https://github.com/ReneThu) [Christian Lutnik](https://github.com/chrfwow) [[Slides](https://github.com/JavaVienna/2026-01-19_multithreading_under_the_lens/blob/main/presentation/vmLens/slidev/presentation.pdf)] [[Code Example](https://github.com/JavaVienna/2026-01-19_multithreading_under_the_lens)] [[Code vmlens](https://github.com/JavaVienna/2026-01-19_vmlens)] [[Video](https://videos.ijug.eu/w/vdtC5amAoMSz2qDpcDKx9e)]
 * <strong>Own Your Domain Before It Owns You</strong> - [Philipp Seifert-Kehrer TODO](#TODO) [Leo Bowen Wang TODO](#TODO) [[Slides TODO](#TODO)] [[Code TODO](#TODO)] [[Video](https://videos.ijug.eu/w/eabLtKQEfZKM2iqESUA5J8)]
 
 ## 2025
