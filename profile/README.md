@@ -103,7 +103,7 @@
 
 ### March Meetup: [2025-03-17](https://www.meetup.com/java-vienna/events/305897191/)
 * <strong>Keycloak as your BaaS - from zero to hero</strong> - [Michael Riedmann](https://github.com/mriedmann) [[Slides](https://github.com/JavaVienna/2025-03-17_keycloak_as_a_BaaS/blob/main/2025-JavaVienna-Keycloak.pdf)]  [[Code](https://github.com/JavaVienna/2025-03-17_keycloak_as_a_BaaS)]
-* <strong>Trustworthy Enterprise AI in your IDE</strong> - [Ed Burns](https://github.com/edburns) [[Slides](https://github.com/JavaVienna/2025-03-17_trustworthy_enterprise_ai/blob/main/20250317-eb-7084-trusted-ai-favorite-ide-java-vienna-meetup.pdf)]
+* <strong>Trustworthy Enterprise AI in your IDE</strong> - [Ed Burns](https://github.com/edburns) [[Slides](https://github.com/JavaVienna/2025-03-17_trustworthy_enterprise_ai/blob/main/20250317-eb-7084-trusted-ai-favorite-ide-java-vienna-meetup.pdf)] [[Video](https://videos.ijug.eu/w/q529EVNDZeoFG7EU2P7qtw)]
 
 ### February Meetup: [2025-02-24](https://www.meetup.com/java-vienna/events/305897185/)
 * <strong>zero downtime monolith decomposition</strong> - [Jakob Fiegerl](https://github.com/jakob-fiegerl) [[Slides](https://github.com/JavaVienna/2025-02-24_zero-downtime-monolith-decomposition/blob/main/zero-downtime%20monolith%20decomposition.pdf)]
