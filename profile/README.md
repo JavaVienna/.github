@@ -166,8 +166,8 @@
 
 ### January Meetup: [2024-01-08](https://www.meetup.com/java-vienna/events/296033487/)
 
-* <strong>TestContainers, Localstack + Spring</strong> - [Anca Ghenade](https://github.com/tinyg210/) [[Slides](https://github.com/JavaVienna/2024-01-08_Slides/blob/main/Taming%20and%20Testing%20the%20Cloud%20Environment%20for%20your%20Java%20apps.pdf)] [[Code](https://github.com/JavaVienna/2024-01-08_testcontainers-shipment-list-cloud-pods)] [[Code](https://github.com/JavaVienna/2024-01-08_testcontainers-shipment-list-demo)]
-* <Strong>Java 21</strong> - [Dominik Dorn](https://github.com/domdorn/) [[Slides](https://github.com/JavaVienna/2024-01-08_Slides/blob/main/whatsnewinjava-17to21.pdf)] [[Code](https://github.com/JavaVienna/2024-01-08_WhatsNewInJava21)]
+* <strong>TestContainers, Localstack + Spring</strong> - [Anca Ghenade](https://github.com/tinyg210/) [[Slides](https://github.com/JavaVienna/2024-01-08_Slides/blob/main/Taming%20and%20Testing%20the%20Cloud%20Environment%20for%20your%20Java%20apps.pdf)] [[Code](https://github.com/JavaVienna/2024-01-08_testcontainers-shipment-list-cloud-pods)] [[Code](https://github.com/JavaVienna/2024-01-08_testcontainers-shipment-list-demo)] [[Video](https://videos.ijug.eu/w/9LxiY13k4hfe3wRwVvJxty)]
+* <strong>Java 21</strong> - [Dominik Dorn](https://github.com/domdorn/) [[Slides](https://github.com/JavaVienna/2024-01-08_Slides/blob/main/whatsnewinjava-17to21.pdf)] [[Code](https://github.com/JavaVienna/2024-01-08_WhatsNewInJava21)] [[Video](https://videos.ijug.eu/w/6M288fdv1sLverkyo1D81U)]
 
 ## 2023
 
