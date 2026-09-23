@@ -144,9 +144,9 @@
 * <strong>Know your Java?</strong> - [Venkat Subramaniam](https://github.com/venkats)
 
 ### April Meetup #2: [2024-04-17](https://www.meetup.com/java-vienna/events/300027723/)
-* <strong>Prepare for Jakarta EE11</strong> - [Ed Burns](https://github.com/edburns) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
-* <strong>AI Talk</strong> - [Ed Burns](https://github.com/edburns) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
-* <strong>Developer Career Masterplan</strong> - [Ed Burns](https://github.com/edburns) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Prepare for Jakarta EE11</strong> - [Ed Burns](https://github.com/edburns) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/4CBnBuk6VpWABi4uK49SkF)]
+* <strong>AI Talk</strong> - [Ed Burns](https://github.com/edburns) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/6o32DDLoFsqhMMrauCuGQB)]
+* <strong>Developer Career Masterplan</strong> - [Ed Burns](https://github.com/edburns) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/uu3pK8kkC53opcE8MCE4TJ)]
 
 ### April Meetup #1: [2024-04-08](https://www.meetup.com/java-vienna/events/298383065/)
 
