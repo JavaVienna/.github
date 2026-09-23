@@ -132,8 +132,8 @@
 * <strong>Event Sourcing with Axon Framework</strong> - [Andreas Grill](https://github.com/andreasgrill) [[Slides](https://github.com/JavaVienna/2024-09-30_axon-framework-sample/blob/main/java_meetup_240930_axon_livecoding.pdf)] [[Code](https://github.com/JavaVienna/2024-09-30_axon-framework-sample)] [[Video](https://videos.ijug.eu/w/czqT11DyPHk4m1Zn1cgVfC)]
 
 ### June Meetup #2: [2024-06-24](https://www.meetup.com/java-vienna/events/298383004/)
-* <strong>Is your spring boot application in Kubernetes secure?</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides](https://github.com/JavaVienna/2024-06-24_spring_boot_k8s_security/blob/main/2024-06-24-java-meetup-is-your-app-secure.pdf)]
-* <strong>Have you ever considered just not writing bugs?</strong> - [Tagir Valeev](https://github.com/amaembo) [[Slides](https://github.com/JavaVienna/2024-06-24_less_bugs/blob/main/lessbugs_vienna.pdf)]
+* <strong>Is your spring boot application in Kubernetes secure?</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides](https://github.com/JavaVienna/2024-06-24_spring_boot_k8s_security/blob/main/2024-06-24-java-meetup-is-your-app-secure.pdf)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/u4qcaL7XLsgE3z1kq3rjXK)]
+* <strong>Have you ever considered just not writing bugs?</strong> - [Tagir Valeev](https://github.com/amaembo) [[Slides](https://github.com/JavaVienna/2024-06-24_less_bugs/blob/main/lessbugs_vienna.pdf)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/pFrrkebu5xnPA7JQVDyucp)]
 
 ### June Meetup #1: [2024-06-03](https://www.meetup.com/java-vienna/events/298383003/)
 * <strong>Privacy leaks beyond the class-level: protecting personal data</strong> - [Catherine Easdon](https://github.com/cattius)  [[Slides](https://github.com/JavaVienna/2024-06-03_privacy_leaks/blob/main/privacy-leaks.pdf)]
