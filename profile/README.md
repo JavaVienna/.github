@@ -161,8 +161,8 @@
 
 ### February Meetup: [2024-02-12](https://www.meetup.com/java-vienna/events/298382990/)
 
-* <strong>Debugging a debugger</strong> - [Marco Sussitz](https://github.com/ReneThu) [[Slides](https://github.com/JavaVienna/2024-02-12_JavaDebuggingExample/blob/main/Debugging_a_debugger_vienna.pdf)] [[Code](https://github.com/JavaVienna/2024-02-12_JavaDebuggingExample)]
-* <strong>Choosing the Right Tool: A Comparative Look at gRPC, REST, and GraphQL</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides](https://raw.githubusercontent.com/JavaVienna/2024-02-12_graphql_rest_grpc/main/java-rest-graphql-grpc.pdf)] [[Code](https://github.com/JavaVienna/2024-02-12_graphql_rest_grpc/tree/main)]
+* <strong>Debugging a debugger</strong> - [Marco Sussitz](https://github.com/ReneThu) [[Slides](https://github.com/JavaVienna/2024-02-12_JavaDebuggingExample/blob/main/Debugging_a_debugger_vienna.pdf)] [[Code](https://github.com/JavaVienna/2024-02-12_JavaDebuggingExample)] [[Video](https://videos.ijug.eu/w/dN8NBbCMtLECXk492qYo8i)]
+* <strong>Choosing the Right Tool: A Comparative Look at gRPC, REST, and GraphQL</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides](https://raw.githubusercontent.com/JavaVienna/2024-02-12_graphql_rest_grpc/main/java-rest-graphql-grpc.pdf)] [[Code](https://github.com/JavaVienna/2024-02-12_graphql_rest_grpc/tree/main)] [[Video](https://videos.ijug.eu/w/gbkXsyJ33ENFbdHSyzQLUp)]
 
 ### January Meetup: [2024-01-08](https://www.meetup.com/java-vienna/events/296033487/)
 
