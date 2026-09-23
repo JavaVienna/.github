@@ -102,7 +102,7 @@
 * <strong>Trash Talk - Exploring the JVM memory management</strong> - [Gerrit Grunwald](https://github.com/hansolo) [[Slides](https://github.com/JavaVienna/2025-04-07_trashtalk_jvm_garbage_collectors/blob/main/TrashTalk_GerritGrunwald.pdf)] [[Code](https://github.com/JavaVienna/2025-04-07_trashtalk_jvm_garbage_collectors)]
 
 ### March Meetup: [2025-03-17](https://www.meetup.com/java-vienna/events/305897191/)
-* <strong>Keycloak as your BaaS - from zero to hero</strong> - [Michael Riedmann](https://github.com/mriedmann) [[Slides](https://github.com/JavaVienna/2025-03-17_keycloak_as_a_BaaS/blob/main/2025-JavaVienna-Keycloak.pdf)]  [[Code](https://github.com/JavaVienna/2025-03-17_keycloak_as_a_BaaS)]
+* <strong>Keycloak as your BaaS - from zero to hero</strong> - [Michael Riedmann](https://github.com/mriedmann) [[Slides](https://github.com/JavaVienna/2025-03-17_keycloak_as_a_BaaS/blob/main/2025-JavaVienna-Keycloak.pdf)] [[Code](https://github.com/JavaVienna/2025-03-17_keycloak_as_a_BaaS)] [[Video](https://videos.ijug.eu/w/xfucpVyVafBkEGe5R6HCRN)]
 * <strong>Trustworthy Enterprise AI in your IDE</strong> - [Ed Burns](https://github.com/edburns) [[Slides](https://github.com/JavaVienna/2025-03-17_trustworthy_enterprise_ai/blob/main/20250317-eb-7084-trusted-ai-favorite-ide-java-vienna-meetup.pdf)] [[Video](https://videos.ijug.eu/w/q529EVNDZeoFG7EU2P7qtw)]
 
 ### February Meetup: [2025-02-24](https://www.meetup.com/java-vienna/events/305897185/)
