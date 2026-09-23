@@ -136,8 +136,8 @@
 * <strong>Have you ever considered just not writing bugs?</strong> - [Tagir Valeev](https://github.com/amaembo) [[Slides](https://github.com/JavaVienna/2024-06-24_less_bugs/blob/main/lessbugs_vienna.pdf)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/pFrrkebu5xnPA7JQVDyucp)]
 
 ### June Meetup #1: [2024-06-03](https://www.meetup.com/java-vienna/events/298383003/)
-* <strong>Privacy leaks beyond the class-level: protecting personal data</strong> - [Catherine Easdon](https://github.com/cattius)  [[Slides](https://github.com/JavaVienna/2024-06-03_privacy_leaks/blob/main/privacy-leaks.pdf)]
-* <strong>Change Data Capturing</strong> - [Hans-Peter Grahsl](https://github.com/hpgrahsl) [[Slides](https://github.com/JavaVienna/2024-06-03_CDC_Debezium/blob/main/CDC_with_Debezium_ViennaJUG__1_.pdf)] [[Code TODO](#TODO)]
+* <strong>Privacy leaks beyond the class-level: protecting personal data</strong> - [Catherine Easdon](https://github.com/cattius) [[Slides](https://github.com/JavaVienna/2024-06-03_privacy_leaks/blob/main/privacy-leaks.pdf)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/mHso5wMhLzRougfM4RfXaK)]
+* <strong>Change Data Capturing</strong> - [Hans-Peter Grahsl](https://github.com/hpgrahsl) [[Slides](https://github.com/JavaVienna/2024-06-03_CDC_Debezium/blob/main/CDC_with_Debezium_ViennaJUG__1_.pdf)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/wcFywMgzV5RQztnGRfUoMm)]
 
 ### May Meetup "Venkat Edition": [2024-05-06](https://www.meetup.com/java-vienna/events/298383001/)
 * <strong>Design Patterns Revisited in Modern Java</strong> - [Venkat Subramaniam](https://github.com/venkats)
