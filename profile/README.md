@@ -125,8 +125,8 @@
 
 
 ### October Meetup: [2024-10-21](https://www.meetup.com/java-vienna/events/298383008/)
-* <strong>Messaging with Spring - ActiveMQ vs. RabbitMQ</strong> - [Milan Gogic](https://github.com/GogicM) [[Slides](https://github.com/JavaVienna/2024-10-21_messaging_activemq_rabbitmq/blob/master/ActiveMQ%20RabbitMq%20With%20spring%20Presentation%20PP-1.pdf)] [[Code](https://github.com/JavaVienna/2024-10-21_messaging_activemq_rabbitmq/)]
-* <strong>Contract Testing in Java</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
+* <strong>Messaging with Spring - ActiveMQ vs. RabbitMQ</strong> - [Milan Gogic](https://github.com/GogicM) [[Slides](https://github.com/JavaVienna/2024-10-21_messaging_activemq_rabbitmq/blob/master/ActiveMQ%20RabbitMq%20With%20spring%20Presentation%20PP-1.pdf)] [[Code](https://github.com/JavaVienna/2024-10-21_messaging_activemq_rabbitmq)] [[Video](https://videos.ijug.eu/w/n7UHx99E15n668YiX19sBu)]
+* <strong>Contract Testing in Java</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/oKHL4fnVdDJSJggJyUmyi9)]
 
 ### September Meetup: [2024-09-30](https://www.meetup.com/java-vienna/events/298383006/)
 * <strong>The beauty of Event-Sourcing</strong> [Jakob Durstberger](https://github.com/JDurstberger) [[Slides](https://github.com/JavaVienna/2024-09-30_beauty_of_eventsourcing/blob/main/The%20Beauty%20of%20Event%20Sourcing.pdf)] [[Code TODO](#TODO)]
