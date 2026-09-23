@@ -19,7 +19,7 @@
 
 ### June Meetup #2: [2026-06-15](https://www.meetup.com/java-vienna/events/315009419/)
 * <strong>Unbreakable by Design: The Secret Tech of Antifragile Software</strong> - [Iryna Dohndorf](https://github.com/IDohndorf) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
-* <strong>Heaps of Trouble -- Debugging Java OOM</strong> - [Robert C Kahlert TODO](#TODO) [[Slides #TODO](#TODO)]
+* <strong>Heaps of Trouble -- Debugging Java OOM</strong> - Robert C. Kahlert [[Slides #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/tVMAsjuNhLanSgWNeN474c)]
 
 ### June Meetup #1: [2026-06-01](https://www.meetup.com/java-vienna/events/314639727/)
 * <strong>From Reactive Streams, through Virtual Threads, to Flows</strong> - [Adam Warski](https://github.com/adamw) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/cbSy9PGEG5sf8PneXzkrx3)]
