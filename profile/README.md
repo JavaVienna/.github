@@ -120,9 +120,8 @@
 * <strong>The Only Reasonable Way To Test Your (Micro) Services</strong> - [Adam Bien](https://github.com/adambien) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/h8b3h1N2oJsVvL1v7qPeu9)]
 
 ### November Meetup #1: [2024-11-11](https://www.meetup.com/java-vienna/events/298383012/)
-* <strong>Everything You Always Wanted To Know About OpenAPI</strong> - [Siegfried Göschl](https://github.com/sgoeschl)  [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
-* <strong>API First revisited - where did we take a left turn?</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
-
+* <strong>Everything You Always Wanted To Know About OpenAPI</strong> - [Siegfried Göschl](https://github.com/sgoeschl) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/gLPPjv6NgfRR5i2ozmnEYj)]
+* <strong>API First revisited - where did we take a left turn?</strong> - Lukas Berger [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/aHhsJR7h8E7QKH1XbFo8a7)]
 
 ### October Meetup: [2024-10-21](https://www.meetup.com/java-vienna/events/298383008/)
 * <strong>Messaging with Spring - ActiveMQ vs. RabbitMQ</strong> - [Milan Gogic](https://github.com/GogicM) [[Slides](https://github.com/JavaVienna/2024-10-21_messaging_activemq_rabbitmq/blob/master/ActiveMQ%20RabbitMq%20With%20spring%20Presentation%20PP-1.pdf)] [[Code](https://github.com/JavaVienna/2024-10-21_messaging_activemq_rabbitmq)] [[Video](https://videos.ijug.eu/w/n7UHx99E15n668YiX19sBu)]
