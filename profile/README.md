@@ -3,8 +3,8 @@
 ## 2026
 
 ### September Meetup: [2026-09-21](https://www.meetup.com/java-vienna/events/316166116/)
-* <strong>Debugging Class Loading with GDB</strong> - [Marco Sussitz](https://github.com/ReneThu) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/8GVciWkbMBoZapew7RQ9yk)]
-* <strong>How to Become a Better Software Engineer with AI</strong> - [Elias Erkinger](https://github.com/Elipkm) [[Slides](https://github.com/JavaVienna/2026-09-21_better_software_engineer_with_ai/blob/main/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-09-21_better_software_engineer_with_ai)] [[Video](https://videos.ijug.eu/w/mdDeEntWshZYGE9tXChJyy)]
+* <strong>Debugging Class Loading with GDB</strong> - [Marco Sussitz](https://github.com/ReneThu) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
+* <strong>How to Become a Better Software Engineer with AI</strong> - [Elias Erkinger](https://github.com/Elipkm) [[Slides](https://github.com/JavaVienna/2026-09-21_better_software_engineer_with_ai/blob/main/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-09-21_better_software_engineer_with_ai)]
 
 ### June Meetup #3: [2026-06-29](https://www.meetup.com/java-vienna/events/314639734/)
 * <strong>living immutable: working with Java Records the painless way</strong> - [Georgios Angelopoulos](https://github.com/geoangelotti) [[Slides](https://github.com/JavaVienna/2026-06-29_living_immutable/blob/main/immutability%20by%20Design.pdf)]
@@ -19,11 +19,11 @@
 
 ### June Meetup #2: [2026-06-15](https://www.meetup.com/java-vienna/events/315009419/)
 * <strong>Unbreakable by Design: The Secret Tech of Antifragile Software</strong> - [Iryna Dohndorf](https://github.com/IDohndorf) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
-* <strong>Heaps of Trouble -- Debugging Java OOM</strong> - Robert C. Kahlert [[Slides #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/tVMAsjuNhLanSgWNeN474c)]
+* <strong>Heaps of Trouble -- Debugging Java OOM</strong> - Robert C. Kahlert [[Slides #TODO](#TODO)]
 
 ### June Meetup #1: [2026-06-01](https://www.meetup.com/java-vienna/events/314639727/)
-* <strong>From Reactive Streams, through Virtual Threads, to Flows</strong> - [Adam Warski](https://github.com/adamw) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/cbSy9PGEG5sf8PneXzkrx3)]
-* <strong>Armeria: The Microservices Framework You Haven't Tried Yet</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-06-01_armeria_microservices_framework/blob/main/slides/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-06-01_armeria_microservices_framework)] [[Video](https://videos.ijug.eu/w/rJkCR85Vk6yd3Jh2W6q36C)]
+* <strong>From Reactive Streams, through Virtual Threads, to Flows</strong> - [Adam Warski](https://github.com/adamw) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
+* <strong>Armeria: The Microservices Framework You Haven't Tried Yet</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-06-01_armeria_microservices_framework/blob/main/slides/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-06-01_armeria_microservices_framework)]
 
 ### April Meetup #3: [2026-04-29](https://www.meetup.com/java-vienna/events/314276964/)
 * <strong>Centralising and automating your API contracts using a schema registry</strong> - [Marian Varga](https://github.com/marian-dragon) [[Slides #TODO](#TODO)]
@@ -33,8 +33,8 @@
 * <strong>Domain-Driven Transformation—Modularizing and Modernizing Legacy Software</strong> - [Henning Schwentner](https://github.com/hschwentner) [[Slides #TODO](#TODO)]
 
 ### April Meetup #1: [2026-04-07](https://www.meetup.com/java-vienna/events/313196243/)
-* <strong>Here we go again: Java 26</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-04-07_java26/blob/main/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-04-07_java26)] [[Video (no audio)](https://videos.ijug.eu/w/nKvgVUgpEC8Reo3Zpv5Ztk)]
-* <strong>webswing & webforj</strong> - [Stephan Wald](https://github.com/StephanWald) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video (no audio)](https://videos.ijug.eu/w/b4uRFyxbKJMku9btWaDLk8)]
+* <strong>Here we go again: Java 26</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-04-07_java26/blob/main/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-04-07_java26)]
+* <strong>webswing & webforj</strong> - [Stephan Wald](https://github.com/StephanWald) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
 
 ### March Meetup: [2026-03-09](https://www.meetup.com/java-vienna/events/313237679/)
 * <strong>Build your own lock</strong> - [Matthias Langer](https://github.com/mlangc) [[Slides](https://github.com/JavaVienna/2026-03-09_build_your_own_lock/blob/build-your-own-lock-from-scratch/slides.pdf)] [[Code](https://github.com/JavaVienna/2026-03-09_build_your_own_lock)]
@@ -46,23 +46,23 @@
 
 
 ### January Meetup: [2026-01-19](https://www.meetup.com/java-vienna/events/310835186/)
-* <strong>Multithreading under the lens</strong> - [Marco Sussitz](https://github.com/ReneThu) [Christian Lutnik](https://github.com/chrfwow) [[Slides](https://github.com/JavaVienna/2026-01-19_multithreading_under_the_lens/blob/main/presentation/vmLens/slidev/presentation.pdf)] [[Code Example](https://github.com/JavaVienna/2026-01-19_multithreading_under_the_lens)] [[Code vmlens](https://github.com/JavaVienna/2026-01-19_vmlens)] [[Video](https://videos.ijug.eu/w/vdtC5amAoMSz2qDpcDKx9e)]
-* <strong>Own Your Domain Before It Owns You</strong> - [Philipp Seifert-Kehrer](https://github.com/original-flipster69) [Leo Bowen Wang](https://github.com/leobowenwang) [[Slides TODO](#TODO)] [[Code TODO](#TODO)] [[Video](https://videos.ijug.eu/w/eabLtKQEfZKM2iqESUA5J8)]
+* <strong>Multithreading under the lens</strong> - [Marco Sussitz](https://github.com/ReneThu) [Christian Lutnik](https://github.com/chrfwow) [[Slides](https://github.com/JavaVienna/2026-01-19_multithreading_under_the_lens/blob/main/presentation/vmLens/slidev/presentation.pdf)] [[Code Example](https://github.com/JavaVienna/2026-01-19_multithreading_under_the_lens)] [[Code vmlens](https://github.com/JavaVienna/2026-01-19_vmlens)]
+* <strong>Own Your Domain Before It Owns You</strong> - [Philipp Seifert-Kehrer](https://github.com/original-flipster69) [Leo Bowen Wang](https://github.com/leobowenwang) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 ## 2025
 
 ### December Meetup: [2025-12-01](https://www.meetup.com/java-vienna/events/310835018/)
 * <strong>SCRUM Basics</strong> - [Ahmet Polat TODO](#TODO) [[Slides TODO](#TODO)] [[Video TODO](#TODO)]
 * <strong>Spring AI</strong> - [Dajena Drinic](#TODO] [[Slides TODO](#TODO)] [[Video TODO](#TODO)]
-* <strong>CSI Observability</strong> - [Andreas Grabner](https://github.com/grabnerandi) [[Slides TODO](#TODO)] [[Code TODO](#TODO)] [[Video](https://videos.ijug.eu/w/tNZ7uQGDbBuiid4gfYQeTm)]
+* <strong>CSI Observability</strong> - [Andreas Grabner](https://github.com/grabnerandi) [[Slides TODO](#TODO)] [[Code TODO](#TODO)]
 
 
 ### November Meetup: [2025-11-17](https://www.meetup.com/java-vienna/events/310835005/)
-* <strong>Faster JVM Applications Without Changing Any Code</strong> - [Simon Ritter](https://github.com/speakjava) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/k11KFUM5RHNSScHijJpCW9)]
+* <strong>Faster JVM Applications Without Changing Any Code</strong> - [Simon Ritter](https://github.com/speakjava) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
 * <strong>Pairing With LLM Agents To Write Great Java Code Fast</strong> - [Adam Bien](https://github.com/adambien/)
 
 ### October Meetup: [2025-10-20](https://www.meetup.com/java-vienna/events/310834925/)
-* <strong>Java 25</strong> - [Mohsen Ahmadian](https://github.com/mohsenetc) [[Slides](https://github.com/JavaVienna/2025-10-20_java_25/blob/main/Java25-clean.pdf)] [[Code](https://github.com/JavaVienna/2025-10-20_java_25)] [[Video](https://videos.ijug.eu/w/7nqnBfhQ2oZmYDtFbz8Qy1)]
+* <strong>Java 25</strong> - [Mohsen Ahmadian](https://github.com/mohsenetc) [[Slides](https://github.com/JavaVienna/2025-10-20_java_25/blob/main/Java25-clean.pdf)] [[Code](https://github.com/JavaVienna/2025-10-20_java_25)]
 * <strong>GraalVM 25</strong> - [Gergö Barany](https://github.com/gergo-) [[Slides #TODO]](#TODO)
   * [GraalPy QR code](https://github.com/javaVienna/2025-10-20_graal-languages-demos/tree/main/graalpy/graalpy-jbang-qrcode)
   * [GraalPy on Spring Boot](https://github.com/javaVienna/2025-10-20_graal-languages-demos/tree/main/graalpy/graalpy-spring-boot-guide)
@@ -78,8 +78,8 @@
 
 
 ### September Meetup: [2025-09-22](https://www.meetup.com/java-vienna/events/305897281/)
-* <strong>Java Performance: Beyond Simple Request Latencies</strong> - [John Ceccarelli](https://github.com/johnceccarelli) [[Slides](https://github.com/JavaVienna/2025-09-22_java_performance/blob/main/slides.pdf)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/4od8bAP979K3GdCmxpSW2p)]
-* <strong>From Zero to Hero: Mastering Domain-Driven Design in Java</strong> - [Otavio Santana](https://github.com/otaviojava) [[Slides](https://github.com/JavaVienna/2025-09-22_mastering_ddd/blob/main/slides.pdf)] [[Code](https://github.com/JavaVienna/2025-09-22_mastering_ddd)] [[Video](https://videos.ijug.eu/w/82KMk1dWTJLB5VsJezG8x9)]
+* <strong>Java Performance: Beyond Simple Request Latencies</strong> - [John Ceccarelli](https://github.com/johnceccarelli) [[Slides](https://github.com/JavaVienna/2025-09-22_java_performance/blob/main/slides.pdf)] [[Code #TODO](#TODO)]
+* <strong>From Zero to Hero: Mastering Domain-Driven Design in Java</strong> - [Otavio Santana](https://github.com/otaviojava) [[Slides](https://github.com/JavaVienna/2025-09-22_mastering_ddd/blob/main/slides.pdf)] [[Code](https://github.com/JavaVienna/2025-09-22_mastering_ddd)]
 
 ### June Meetup #2 - AWS Lambda Special: [2025-06-16](https://www.meetup.com/java-vienna/events/305897281/)
 * <strong>High performance Serverless Java on AWS</strong> - [Vadym Kazulkin](https://github.com/Vadym79) [[Slides](https://github.com/JavaVienna/2025-06-16_java_serverless_springboot_aws/blob/main/High%20performance%20Serverless%20Java%20on%20AWS-AWS%20and%20Java%20User%20Group%20Vienna%202025.pdf)] [[Code TODO](#TODO)]
@@ -102,72 +102,72 @@
 * <strong>Trash Talk - Exploring the JVM memory management</strong> - [Gerrit Grunwald](https://github.com/hansolo) [[Slides](https://github.com/JavaVienna/2025-04-07_trashtalk_jvm_garbage_collectors/blob/main/TrashTalk_GerritGrunwald.pdf)] [[Code](https://github.com/JavaVienna/2025-04-07_trashtalk_jvm_garbage_collectors)]
 
 ### March Meetup: [2025-03-17](https://www.meetup.com/java-vienna/events/305897191/)
-* <strong>Keycloak as your BaaS - from zero to hero</strong> - [Michael Riedmann](https://github.com/mriedmann) [[Slides](https://github.com/JavaVienna/2025-03-17_keycloak_as_a_BaaS/blob/main/2025-JavaVienna-Keycloak.pdf)] [[Code](https://github.com/JavaVienna/2025-03-17_keycloak_as_a_BaaS)] [[Video](https://videos.ijug.eu/w/xfucpVyVafBkEGe5R6HCRN)]
-* <strong>Trustworthy Enterprise AI in your IDE</strong> - [Ed Burns](https://github.com/edburns) [[Slides](https://github.com/JavaVienna/2025-03-17_trustworthy_enterprise_ai/blob/main/20250317-eb-7084-trusted-ai-favorite-ide-java-vienna-meetup.pdf)] [[Video](https://videos.ijug.eu/w/q529EVNDZeoFG7EU2P7qtw)]
+* <strong>Keycloak as your BaaS - from zero to hero</strong> - [Michael Riedmann](https://github.com/mriedmann) [[Slides](https://github.com/JavaVienna/2025-03-17_keycloak_as_a_BaaS/blob/main/2025-JavaVienna-Keycloak.pdf)] [[Code](https://github.com/JavaVienna/2025-03-17_keycloak_as_a_BaaS)]
+* <strong>Trustworthy Enterprise AI in your IDE</strong> - [Ed Burns](https://github.com/edburns) [[Slides](https://github.com/JavaVienna/2025-03-17_trustworthy_enterprise_ai/blob/main/20250317-eb-7084-trusted-ai-favorite-ide-java-vienna-meetup.pdf)]
 
 ### February Meetup: [2025-02-24](https://www.meetup.com/java-vienna/events/305897185/)
-* <strong>Zero Downtime Monolith Decomposition</strong> - [Jakob Fiegerl](https://github.com/jakob-fiegerl) [[Slides](https://github.com/JavaVienna/2025-02-24_zero-downtime-monolith-decomposition/blob/main/zero-downtime%20monolith%20decomposition.pdf)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/7P7frDomffbaZP8rXs4bu5)]
-* <strong>Evil Performance Testing</strong> - [Siegfried Göschl](https://github.com/sgoeschl) [[Slides](https://github.com/JavaVienna/2025-02-24_evil_performance_testing/blob/master/slides/evil-performance-testing.pdf)] [[Code](https://github.com/JavaVienna/2025-02-24_evil_performance_testing/)] [[Code Sample App](https://github.com/JavaVienna/2025-02-24_evil_performance_testing_springboot-httpbin)] [[Video](https://videos.ijug.eu/w/jqYhVK6R6qFihHmj6ev9HX)]
+* <strong>Zero Downtime Monolith Decomposition</strong> - [Jakob Fiegerl](https://github.com/jakob-fiegerl) [[Slides](https://github.com/JavaVienna/2025-02-24_zero-downtime-monolith-decomposition/blob/main/zero-downtime%20monolith%20decomposition.pdf)] [[Code #TODO](#TODO)]
+* <strong>Evil Performance Testing</strong> - [Siegfried Göschl](https://github.com/sgoeschl) [[Slides](https://github.com/JavaVienna/2025-02-24_evil_performance_testing/blob/master/slides/evil-performance-testing.pdf)] [[Code](https://github.com/JavaVienna/2025-02-24_evil_performance_testing/)] [[Code Sample App](https://github.com/JavaVienna/2025-02-24_evil_performance_testing_springboot-httpbin)]
 
 ### January Meetup: [2025-01-27](https://www.meetup.com/java-vienna/events/305515073/)
-* <strong>How to optimize JPA: The SQL Police</strong> - [Philipp Seifert-Kehrer](https://github.com/original-flipster69) [[Slides](https://github.com/JavaVienna/2025-01-27_sql-police/blob/master/2025-01-27_Java-meetup-Philipp_sql-police.pdf)] [[Code](https://github.com/JavaVienna/2025-01-27_sql-police)] [[Article](https://originalflipster.com/rants/marie-kondo-sql-queries/)] [[Video](https://videos.ijug.eu/w/tJsjfuDtq1e7LCfZ8VRzXR)]
-* <strong>The power of Graal: Using JavaScript, Python and WebAssembly in your Java Apps</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2025-01-27_graalvm_polyglot/blob/main/presentation/presentation.pdf)] [[Code](https://github.com/JavaVienna/2025-01-27_graalvm_polyglot)] [[Video](https://videos.ijug.eu/w/fupqAfKSQH3AP2Bu9X2oEf)]
+* <strong>How to optimize JPA: The SQL Police</strong> - [Philipp Seifert-Kehrer](https://github.com/original-flipster69) [[Slides](https://github.com/JavaVienna/2025-01-27_sql-police/blob/master/2025-01-27_Java-meetup-Philipp_sql-police.pdf)] [[Code](https://github.com/JavaVienna/2025-01-27_sql-police)] [[Article](https://originalflipster.com/rants/marie-kondo-sql-queries/)]
+* <strong>The power of Graal: Using JavaScript, Python and WebAssembly in your Java Apps</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2025-01-27_graalvm_polyglot/blob/main/presentation/presentation.pdf)] [[Code](https://github.com/JavaVienna/2025-01-27_graalvm_polyglot)]
 
 ## 2024
 
 ### November Meetup #2: [2024-11-25](https://www.meetup.com/java-vienna/events/298383014/)
-* <strong>Pure, No Dependencies Java LLM Integration</strong> - [Adam Bien](https://github.com/adambien) [[Slides #TODO](#TODO)] [[Code](https://github.com/JavaVienna/2024-11-25_java_llm)] [[Video](https://videos.ijug.eu/w/kQ74gPRAkLhNnBkigcyouL)]
-* <strong>The Only Reasonable Way To Test Your (Micro) Services</strong> - [Adam Bien](https://github.com/adambien) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/h8b3h1N2oJsVvL1v7qPeu9)]
+* <strong>Pure, No Dependencies Java LLM Integration</strong> - [Adam Bien](https://github.com/adambien) [[Slides #TODO](#TODO)] [[Code](https://github.com/JavaVienna/2024-11-25_java_llm)]
+* <strong>The Only Reasonable Way To Test Your (Micro) Services</strong> - [Adam Bien](https://github.com/adambien) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
 
 ### November Meetup #1: [2024-11-11](https://www.meetup.com/java-vienna/events/298383012/)
-* <strong>Everything You Always Wanted To Know About OpenAPI</strong> - [Siegfried Göschl](https://github.com/sgoeschl) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/gLPPjv6NgfRR5i2ozmnEYj)]
-* <strong>API First revisited - where did we take a left turn?</strong> - Lukas Berger [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/aHhsJR7h8E7QKH1XbFo8a7)]
+* <strong>Everything You Always Wanted To Know About OpenAPI</strong> - [Siegfried Göschl](https://github.com/sgoeschl) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
+* <strong>API First revisited - where did we take a left turn?</strong> - Lukas Berger [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
 
 ### October Meetup: [2024-10-21](https://www.meetup.com/java-vienna/events/298383008/)
-* <strong>Messaging with Spring - ActiveMQ vs. RabbitMQ</strong> - [Milan Gogic](https://github.com/GogicM) [[Slides](https://github.com/JavaVienna/2024-10-21_messaging_activemq_rabbitmq/blob/master/ActiveMQ%20RabbitMq%20With%20spring%20Presentation%20PP-1.pdf)] [[Code](https://github.com/JavaVienna/2024-10-21_messaging_activemq_rabbitmq)] [[Video](https://videos.ijug.eu/w/n7UHx99E15n668YiX19sBu)]
-* <strong>Contract Testing in Java</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/oKHL4fnVdDJSJggJyUmyi9)]
+* <strong>Messaging with Spring - ActiveMQ vs. RabbitMQ</strong> - [Milan Gogic](https://github.com/GogicM) [[Slides](https://github.com/JavaVienna/2024-10-21_messaging_activemq_rabbitmq/blob/master/ActiveMQ%20RabbitMq%20With%20spring%20Presentation%20PP-1.pdf)] [[Code](https://github.com/JavaVienna/2024-10-21_messaging_activemq_rabbitmq)]
+* <strong>Contract Testing in Java</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
 
 ### September Meetup: [2024-09-30](https://www.meetup.com/java-vienna/events/298383006/)
-* <strong>The beauty of Event-Sourcing</strong> - [Jakob Durstberger](https://github.com/JDurstberger) [[Slides](https://github.com/JavaVienna/2024-09-30_beauty_of_eventsourcing/blob/main/The%20Beauty%20of%20Event%20Sourcing.pdf)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/qbwuADZcRuAjsZtjNonthA)]
-* <strong>Event Sourcing with Axon Framework</strong> - [Andreas Grill](https://github.com/andreasgrill) [[Slides](https://github.com/JavaVienna/2024-09-30_axon-framework-sample/blob/main/java_meetup_240930_axon_livecoding.pdf)] [[Code](https://github.com/JavaVienna/2024-09-30_axon-framework-sample)] [[Video](https://videos.ijug.eu/w/czqT11DyPHk4m1Zn1cgVfC)]
+* <strong>The beauty of Event-Sourcing</strong> - [Jakob Durstberger](https://github.com/JDurstberger) [[Slides](https://github.com/JavaVienna/2024-09-30_beauty_of_eventsourcing/blob/main/The%20Beauty%20of%20Event%20Sourcing.pdf)] [[Code #TODO](#TODO)]
+* <strong>Event Sourcing with Axon Framework</strong> - [Andreas Grill](https://github.com/andreasgrill) [[Slides](https://github.com/JavaVienna/2024-09-30_axon-framework-sample/blob/main/java_meetup_240930_axon_livecoding.pdf)] [[Code](https://github.com/JavaVienna/2024-09-30_axon-framework-sample)]
 
 ### June Meetup #2: [2024-06-24](https://www.meetup.com/java-vienna/events/298383004/)
-* <strong>Is your spring boot application in Kubernetes secure?</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides](https://github.com/JavaVienna/2024-06-24_spring_boot_k8s_security/blob/main/2024-06-24-java-meetup-is-your-app-secure.pdf)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/u4qcaL7XLsgE3z1kq3rjXK)]
-* <strong>Have you ever considered just not writing bugs?</strong> - [Tagir Valeev](https://github.com/amaembo) [[Slides](https://github.com/JavaVienna/2024-06-24_less_bugs/blob/main/lessbugs_vienna.pdf)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/pFrrkebu5xnPA7JQVDyucp)]
+* <strong>Is your spring boot application in Kubernetes secure?</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides](https://github.com/JavaVienna/2024-06-24_spring_boot_k8s_security/blob/main/2024-06-24-java-meetup-is-your-app-secure.pdf)] [[Code #TODO](#TODO)]
+* <strong>Have you ever considered just not writing bugs?</strong> - [Tagir Valeev](https://github.com/amaembo) [[Slides](https://github.com/JavaVienna/2024-06-24_less_bugs/blob/main/lessbugs_vienna.pdf)] [[Code #TODO](#TODO)]
 
 ### June Meetup #1: [2024-06-03](https://www.meetup.com/java-vienna/events/298383003/)
-* <strong>Privacy leaks beyond the class-level: protecting personal data</strong> - [Catherine Easdon](https://github.com/cattius) [[Slides](https://github.com/JavaVienna/2024-06-03_privacy_leaks/blob/main/privacy-leaks.pdf)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/mHso5wMhLzRougfM4RfXaK)]
-* <strong>Change Data Capturing</strong> - [Hans-Peter Grahsl](https://github.com/hpgrahsl) [[Slides](https://github.com/JavaVienna/2024-06-03_CDC_Debezium/blob/main/CDC_with_Debezium_ViennaJUG__1_.pdf)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/wcFywMgzV5RQztnGRfUoMm)]
+* <strong>Privacy leaks beyond the class-level: protecting personal data</strong> - [Catherine Easdon](https://github.com/cattius) [[Slides](https://github.com/JavaVienna/2024-06-03_privacy_leaks/blob/main/privacy-leaks.pdf)] [[Code #TODO](#TODO)]
+* <strong>Change Data Capturing</strong> - [Hans-Peter Grahsl](https://github.com/hpgrahsl) [[Slides](https://github.com/JavaVienna/2024-06-03_CDC_Debezium/blob/main/CDC_with_Debezium_ViennaJUG__1_.pdf)] [[Code #TODO](#TODO)]
 
 ### May Meetup "Venkat Edition": [2024-05-06](https://www.meetup.com/java-vienna/events/298383001/)
 * <strong>Design Patterns Revisited in Modern Java</strong> - [Venkat Subramaniam](https://github.com/venkats)
 * <strong>Know your Java?</strong> - [Venkat Subramaniam](https://github.com/venkats)
 
 ### April Meetup #2: [2024-04-17](https://www.meetup.com/java-vienna/events/300027723/)
-* <strong>Prepare for Jakarta EE11</strong> - [Ed Burns](https://github.com/edburns) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/4CBnBuk6VpWABi4uK49SkF)]
-* <strong>AI Talk</strong> - [Ed Burns](https://github.com/edburns) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/6o32DDLoFsqhMMrauCuGQB)]
-* <strong>Developer Career Masterplan</strong> - [Ed Burns](https://github.com/edburns) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/uu3pK8kkC53opcE8MCE4TJ)]
+* <strong>Prepare for Jakarta EE11</strong> - [Ed Burns](https://github.com/edburns) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
+* <strong>AI Talk</strong> - [Ed Burns](https://github.com/edburns) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
+* <strong>Developer Career Masterplan</strong> - [Ed Burns](https://github.com/edburns) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)]
 
 ### April Meetup #1: [2024-04-08](https://www.meetup.com/java-vienna/events/298383065/)
 
-* <strong>Deep dive into Hibernate ORM 6.4 features</strong> - [Christian Beikov](https://github.com/beikov) [[Slides](https://github.com/JavaVienna/2024-04-08_hibernate_6.4_quarkus_insights/blob/main/Deep%20dive%20into%20Hibernate%20ORM%206.4%20features.pdf)] [[Code](https://github.com/JavaVienna/2024-04-08_hibernate_6.4_quarkus_insights)] [[Video](https://videos.ijug.eu/w/kdXvc6k558W91dnL6Hzicm)] [[Video 1](https://www.youtube.com/watch?v=QS4nT6ffVRA&t=9s&pp=ygUQcXVhcmt1cyBpbnNpZ2h0cw%3D%3D)] [[Video 2](https://www.youtube.com/watch?v=0Z84qAEzoZg&pp=ygUQcXVhcmt1cyBpbnNpZ2h0cw%3D%3D)]
-* <strong>JVM Performance Comparison for JDK 21</strong> - [Ionut Balosin](https://github.com/ionutbalosin) [[Slides](https://github.com/JavaVienna/2024-04-08_jvm-performance-benchmarks/blob/main/JVM-Performance-Comparison-JDK21.pdf)] [[Code](https://github.com/JavaVienna/2024-04-08_jvm-performance-benchmarks)] [[Video](https://videos.ijug.eu/w/nvQZ7Rtnmzkz5Wra5KE5JS)]
+* <strong>Deep dive into Hibernate ORM 6.4 features</strong> - [Christian Beikov](https://github.com/beikov) [[Slides](https://github.com/JavaVienna/2024-04-08_hibernate_6.4_quarkus_insights/blob/main/Deep%20dive%20into%20Hibernate%20ORM%206.4%20features.pdf)] [[Code](https://github.com/JavaVienna/2024-04-08_hibernate_6.4_quarkus_insights)] [[Video 1](https://www.youtube.com/watch?v=QS4nT6ffVRA&t=9s&pp=ygUQcXVhcmt1cyBpbnNpZ2h0cw%3D%3D)] [[Video 2](https://www.youtube.com/watch?v=0Z84qAEzoZg&pp=ygUQcXVhcmt1cyBpbnNpZ2h0cw%3D%3D)]
+* <strong>JVM Performance Comparison for JDK 21</strong> - [Ionut Balosin](https://github.com/ionutbalosin) [[Slides](https://github.com/JavaVienna/2024-04-08_jvm-performance-benchmarks/blob/main/JVM-Performance-Comparison-JDK21.pdf)] [[Code](https://github.com/JavaVienna/2024-04-08_jvm-performance-benchmarks)]
 
 
 ### March Meetup: [2024-03-11](https://www.meetup.com/java-vienna/events/298382998/)
 
-* <strong>Extend your app securely</strong> - [Max Noe](https://github.com/mnohe) [Live Coding only talk] [[Code](https://github.com/JavaVienna/2024-03-11_signed-spi-example)] [[Video](https://videos.ijug.eu/w/uJk2GUUK2VsGp2722PGHf4)]
-* <strong>Parallele Programmierung in Java</strong> - [Christian Heitzmann](https://simplexacode.ch) [[Slides](https://github.com/JavaVienna/2024-03-11_parallele_programmierung/blob/main/slides/parallel_programming_in_java_2024_03_11___without_overlays.pdf)] [[Code](https://github.com/JavaVienna/2024-03-11_parallele_programmierung/)] [[Video](https://videos.ijug.eu/w/6nHjQnqmTzsSRYT2JzDWKk)]
+* <strong>Extend your app securely</strong> - [Max Noe](https://github.com/mnohe) [Live Coding only talk] [[Code](https://github.com/JavaVienna/2024-03-11_signed-spi-example)]
+* <strong>Parallele Programmierung in Java</strong> - [Christian Heitzmann](https://simplexacode.ch) [[Slides](https://github.com/JavaVienna/2024-03-11_parallele_programmierung/blob/main/slides/parallel_programming_in_java_2024_03_11___without_overlays.pdf)] [[Code](https://github.com/JavaVienna/2024-03-11_parallele_programmierung/)]
 
 ### February Meetup: [2024-02-12](https://www.meetup.com/java-vienna/events/298382990/)
 
-* <strong>Debugging a debugger</strong> - [Marco Sussitz](https://github.com/ReneThu) [[Slides](https://github.com/JavaVienna/2024-02-12_JavaDebuggingExample/blob/main/Debugging_a_debugger_vienna.pdf)] [[Code](https://github.com/JavaVienna/2024-02-12_JavaDebuggingExample)] [[Video](https://videos.ijug.eu/w/dN8NBbCMtLECXk492qYo8i)]
-* <strong>Choosing the Right Tool: A Comparative Look at gRPC, REST, and GraphQL</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides](https://raw.githubusercontent.com/JavaVienna/2024-02-12_graphql_rest_grpc/main/java-rest-graphql-grpc.pdf)] [[Code](https://github.com/JavaVienna/2024-02-12_graphql_rest_grpc/tree/main)] [[Video](https://videos.ijug.eu/w/gbkXsyJ33ENFbdHSyzQLUp)]
+* <strong>Debugging a debugger</strong> - [Marco Sussitz](https://github.com/ReneThu) [[Slides](https://github.com/JavaVienna/2024-02-12_JavaDebuggingExample/blob/main/Debugging_a_debugger_vienna.pdf)] [[Code](https://github.com/JavaVienna/2024-02-12_JavaDebuggingExample)]
+* <strong>Choosing the Right Tool: A Comparative Look at gRPC, REST, and GraphQL</strong> - [Damjan Gjurovski](https://github.com/DamjanGjurovski) [[Slides](https://raw.githubusercontent.com/JavaVienna/2024-02-12_graphql_rest_grpc/main/java-rest-graphql-grpc.pdf)] [[Code](https://github.com/JavaVienna/2024-02-12_graphql_rest_grpc/tree/main)]
 
 ### January Meetup: [2024-01-08](https://www.meetup.com/java-vienna/events/296033487/)
 
-* <strong>TestContainers, Localstack + Spring</strong> - [Anca Ghenade](https://github.com/tinyg210/) [[Slides](https://github.com/JavaVienna/2024-01-08_Slides/blob/main/Taming%20and%20Testing%20the%20Cloud%20Environment%20for%20your%20Java%20apps.pdf)] [[Code](https://github.com/JavaVienna/2024-01-08_testcontainers-shipment-list-cloud-pods)] [[Code](https://github.com/JavaVienna/2024-01-08_testcontainers-shipment-list-demo)] [[Video](https://videos.ijug.eu/w/9LxiY13k4hfe3wRwVvJxty)]
-* <strong>Java 21</strong> - [Dominik Dorn](https://github.com/domdorn/) [[Slides](https://github.com/JavaVienna/2024-01-08_Slides/blob/main/whatsnewinjava-17to21.pdf)] [[Code](https://github.com/JavaVienna/2024-01-08_WhatsNewInJava21)] [[Video](https://videos.ijug.eu/w/6M288fdv1sLverkyo1D81U)]
+* <strong>TestContainers, Localstack + Spring</strong> - [Anca Ghenade](https://github.com/tinyg210/) [[Slides](https://github.com/JavaVienna/2024-01-08_Slides/blob/main/Taming%20and%20Testing%20the%20Cloud%20Environment%20for%20your%20Java%20apps.pdf)] [[Code](https://github.com/JavaVienna/2024-01-08_testcontainers-shipment-list-cloud-pods)] [[Code](https://github.com/JavaVienna/2024-01-08_testcontainers-shipment-list-demo)]
+* <strong>Java 21</strong> - [Dominik Dorn](https://github.com/domdorn/) [[Slides](https://github.com/JavaVienna/2024-01-08_Slides/blob/main/whatsnewinjava-17to21.pdf)] [[Code](https://github.com/JavaVienna/2024-01-08_WhatsNewInJava21)]
 
 ## 2023
 
