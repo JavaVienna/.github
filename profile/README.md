@@ -6,6 +6,10 @@
 * <strong>Java Static Site Generation</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-11-16_static_site_generator/blob/main/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-11-16_static_site_generator)]
 * <strong>7 Ways You Can Build an Amazing Dev Career in the AI Era</strong> - [Bruno Souza](https://github.com/brjavaman) [[Slides #TODO](#TODO)]
 
+### October Meetup: [2026-10-19](https://www.meetup.com/java-vienna/events/316166122/)
+* <strong>Event-Driven Workflow Orchestration with Kestra for the Streaming Stack: Kafka, Flink, Fluss, and Beyond</strong> - [Kai Waehner](https://github.com/kaiwaehner) [[Slides #TODO](#TODO)]
+* <strong>Functional Java or "living without nulls"</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides #TODO](#TODO)]
+
 ### September Meetup: [2026-09-21](https://www.meetup.com/java-vienna/events/316166116/)
 * <strong>Debugging Class Loading with GDB</strong> - [Marco Sussitz](https://github.com/ReneThu) [[Slides #TODO](#TODO)] [[Code #TODO](#TODO)] [[Video](https://videos.ijug.eu/w/8GVciWkbMBoZapew7RQ9yk)]
 * <strong>How to Become a Better Software Engineer with AI</strong> - [Elias Erkinger](https://github.com/Elipkm) [[Slides](https://github.com/JavaVienna/2026-09-21_better_software_engineer_with_ai/blob/main/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-09-21_better_software_engineer_with_ai)] [[Video](https://videos.ijug.eu/w/mdDeEntWshZYGE9tXChJyy)]
