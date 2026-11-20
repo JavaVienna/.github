@@ -4,7 +4,7 @@
 
 ### November Meetup: [2026-11-16](https://www.meetup.com/java-vienna/events/316166123/)
 * <strong>Java Static Site Generation</strong> - [Dominik Dorn](https://github.com/domdorn) [[Slides](https://github.com/JavaVienna/2026-11-16_static_site_generator/blob/main/presentation.pdf)] [[Code](https://github.com/JavaVienna/2026-11-16_static_site_generator)]
-* <strong>7 Ways You Can Build an Amazing Dev Career in the AI Era</strong> - [Bruno Souza](https://github.com/brjavaman) [[Slides #TODO](#TODO)]
+* <strong>7 Ways You Can Build an Amazing Dev Career in the AI Era</strong> - [Bruno Souza](https://github.com/brjavaman) [[Slides](https://github.com/JavaVienna/2026-11-16_ai_career/blob/main/presentation.pdf)]
 
 ### October Meetup: [2026-10-19](https://www.meetup.com/java-vienna/events/316166122/)
 * <strong>Event-Driven Workflow Orchestration with Kestra for the Streaming Stack: Kafka, Flink, Fluss, and Beyond</strong> - [Kai Waehner](https://github.com/kaiwaehner) [[Slides #TODO](#TODO)]
